@@ -196,64 +196,64 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5149.0,Arkansas,Yell,2721,52,6.0,1.0
 6001.0,California,Alameda,61111,736,986.0,3.0
 6003.0,California,Alpine,72,0,0.0,0.0
-6005.0,California,Amador,2861,26,37.0,0.0
-6007.0,California,Butte,8665,111,113.0,0.0
+6005.0,California,Amador,2861,28,37.0,2.0
+6007.0,California,Butte,8665,112,113.0,1.0
 6009.0,California,Calaveras,1449,22,24.0,0.0
-6011.0,California,Colusa,1565,9,0.0,0.0
-6013.0,California,Contra Costa,47315,392,0.0,0.0
-6015.0,California,Del Norte,816,2,0.0,0.0
-6017.0,California,El Dorado,6904,33,104.0,0.0
-6019.0,California,Fresno,75621,711,805.0,0.0
+6011.0,California,Colusa,1613,9,48.0,0.0
+6013.0,California,Contra Costa,47940,392,625.0,0.0
+6015.0,California,Del Norte,823,2,7.0,0.0
+6017.0,California,El Dorado,7041,33,241.0,0.0
+6019.0,California,Fresno,75621,802,805.0,91.0
 6021.0,California,Glenn,1746,18,39.0,0.0
 6023.0,California,Humboldt,2124,23,93.0,0.0
 6025.0,California,Imperial,24233,446,205.0,0.0
-6027.0,California,Inyo,811,27,0.0,0.0
-6029.0,California,Kern,78832,542,0.0,0.0
-6031.0,California,Kings,17812,110,101.0,0.0
-6033.0,California,Lake,2174,26,30.0,0.0
-6035.0,California,Lassen,4972,12,0.0,0.0
-6037.0,California,Los Angeles,932697,12387,12373.0,135.0
+6027.0,California,Inyo,854,27,43.0,0.0
+6029.0,California,Kern,79728,542,896.0,0.0
+6031.0,California,Kings,17941,110,230.0,0.0
+6033.0,California,Lake,2194,27,50.0,1.0
+6035.0,California,Lassen,5022,12,50.0,0.0
+6037.0,California,Los Angeles,932901,12388,12577.0,136.0
 6039.0,California,Madera,12270,126,207.0,0.0
-6041.0,California,Marin,10811,144,0.0,0.0
+6041.0,California,Marin,10928,145,117.0,1.0
 6043.0,California,Mariposa,328,4,6.0,0.0
 6045.0,California,Mendocino,2914,31,0.0,0.0
-6047.0,California,Merced,21691,279,185.0,0.0
-6049.0,California,Modoc,366,3,0.0,0.0
-6051.0,California,Mono,969,4,0.0,0.0
+6047.0,California,Merced,22355,283,849.0,4.0
+6049.0,California,Modoc,368,3,2.0,0.0
+6051.0,California,Mono,997,4,28.0,0.0
 6053.0,California,Monterey,32571,242,177.0,0.0
-6055.0,California,Napa,6687,36,93.0,0.0
-6057.0,California,Nevada,2959,50,27.0,0.0
+6055.0,California,Napa,6701,36,107.0,0.0
+6057.0,California,Nevada,2978,70,46.0,20.0
 6059.0,California,Orange,193766,2120,2762.0,29.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,15978,161,369.0,2.0
-6063.0,California,Plumas,544,5,0.0,0.0
+6063.0,California,Plumas,554,5,10.0,0.0
 6065.0,California,Riverside,219486,2250,3410.0,32.0
-6067.0,California,Sacramento,75394,977,912.0,0.0
+6067.0,California,Sacramento,75394,1015,912.0,38.0
 6069.0,California,San Benito,4451,39,48.0,3.0
 6071.0,California,San Bernardino,232171,1546,3314.0,15.0
 6073.0,California,San Diego,194795,1857,2907.0,0.0
 6075.0,California,San Francisco,27054,234,346.0,1.0
-6077.0,California,San Joaquin,52535,712,608.0,0.0
-6079.0,California,San Luis Obispo,13968,101,321.0,0.0
+6077.0,California,San Joaquin,52535,724,608.0,12.0
+6079.0,California,San Luis Obispo,13968,111,321.0,10.0
 6081.0,California,San Mateo,28972,255,460.0,0.0
-6083.0,California,Santa Barbara,21323,197,0.0,0.0
+6083.0,California,Santa Barbara,21767,199,444.0,2.0
 6085.0,California,Santa Clara,84726,944,1071.0,25.0
-6087.0,California,Santa Cruz,10951,104,234.0,0.0
-6089.0,California,Shasta,8936,99,19.0,0.0
-6091.0,California,Sierra,63,0,0.0,0.0
-6093.0,California,Siskiyou,1311,12,0.0,0.0
+6087.0,California,Santa Cruz,10951,106,234.0,2.0
+6089.0,California,Shasta,9127,101,210.0,2.0
+6091.0,California,Sierra,65,0,2.0,0.0
+6093.0,California,Siskiyou,1341,12,30.0,0.0
 6095.0,California,Solano,23314,102,1082.0,0.0
 6097.0,California,Sonoma,21925,218,462.0,0.0
 6099.0,California,Stanislaus,39216,686,365.0,11.0
-6101.0,California,Sutter,7133,70,61.0,0.0
+6101.0,California,Sutter,7247,73,175.0,3.0
 6103.0,California,Tehama,3752,41,0.0,0.0
-6105.0,California,Trinity,292,4,0.0,0.0
-6107.0,California,Tulare,38012,455,328.0,0.0
-6109.0,California,Tuolumne,3180,33,0.0,0.0
+6105.0,California,Trinity,297,4,5.0,0.0
+6107.0,California,Tulare,38284,464,600.0,9.0
+6109.0,California,Tuolumne,3236,36,56.0,3.0
 90006.0,California,Unassigned,0,0,0.0,0.0
-6111.0,California,Ventura,53095,334,1107.0,0.0
+6111.0,California,Ventura,53095,351,1107.0,17.0
 6113.0,California,Yolo,9610,127,86.0,0.0
-6115.0,California,Yuba,4440,25,0.0,0.0
+6115.0,California,Yuba,4595,26,155.0,1.0
 8001.0,Colorado,Adams,42903,545,173.0,0.0
 8003.0,Colorado,Alamosa,1009,25,3.0,0.0
 8005.0,Colorado,Arapahoe,41314,592,222.0,0.0
@@ -1262,23 +1262,23 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 24043.0,Maryland,Washington,9768,174,90.0,0.0
 24045.0,Maryland,Wicomico,5333,94,38.0,1.0
 24047.0,Maryland,Worcester,2595,57,29.0,2.0
-25001.0,Massachusetts,Barnstable,6454,276,0.0,0.0
-25003.0,Massachusetts,Berkshire,3543,163,0.0,0.0
-25005.0,Massachusetts,Bristol,40820,1164,0.0,0.0
+25001.0,Massachusetts,Barnstable,6569,277,115.0,1.0
+25003.0,Massachusetts,Berkshire,3614,164,71.0,1.0
+25005.0,Massachusetts,Bristol,41297,1168,477.0,4.0
 25007.0,Massachusetts,Dukes,0,0,0.0,0.0
-,Massachusetts,Dukes and Nantucket,1539,2,0.0,0.0
-25009.0,Massachusetts,Essex,66326,1797,0.0,0.0
-25011.0,Massachusetts,Franklin,1458,93,0.0,0.0
-25013.0,Massachusetts,Hampden,30270,1101,0.0,0.0
-25015.0,Massachusetts,Hampshire,4553,209,0.0,0.0
-25017.0,Massachusetts,Middlesex,86020,2851,0.0,0.0
+,Massachusetts,Dukes and Nantucket,1549,2,10.0,0.0
+25009.0,Massachusetts,Essex,66977,1805,651.0,8.0
+25011.0,Massachusetts,Franklin,1472,93,14.0,0.0
+25013.0,Massachusetts,Hampden,30559,1105,289.0,4.0
+25015.0,Massachusetts,Hampshire,4600,211,47.0,2.0
+25017.0,Massachusetts,Middlesex,86826,2863,806.0,12.0
 25019.0,Massachusetts,Nantucket,0,0,0.0,0.0
-25021.0,Massachusetts,Norfolk,31860,1363,0.0,0.0
+25021.0,Massachusetts,Norfolk,32299,1367,439.0,4.0
 80025.0,Massachusetts,Out of MA,0,0,0.0,0.0
-25023.0,Massachusetts,Plymouth,28588,1058,0.0,0.0
-25025.0,Massachusetts,Suffolk,61178,1426,0.0,0.0
-90025.0,Massachusetts,Unassigned,20712,8,12.0,0.0
-25027.0,Massachusetts,Worcester,49482,1640,0.0,0.0
+25023.0,Massachusetts,Plymouth,28975,1064,387.0,6.0
+25025.0,Massachusetts,Suffolk,61722,1430,544.0,4.0
+90025.0,Massachusetts,Unassigned,20703,8,3.0,0.0
+25027.0,Massachusetts,Worcester,49880,1649,398.0,9.0
 26001.0,Michigan,Alcona,378,18,5.0,0.0
 26003.0,Michigan,Alger,348,3,4.0,0.0
 26005.0,Michigan,Allegan,6256,87,66.0,1.0
@@ -2115,7 +2115,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 38093.0,North Dakota,Stutsman,3197,71,1.0,0.0
 38095.0,North Dakota,Towner,281,10,0.0,0.0
 38097.0,North Dakota,Traill,934,17,1.0,0.0
-90038.0,North Dakota,Unassigned,1,0,1.0,0.0
+90038.0,North Dakota,Unassigned,1,8,1.0,0.0
 38099.0,North Dakota,Walsh,1672,22,0.0,0.0
 38101.0,North Dakota,Ward,8642,178,9.0,0.0
 38103.0,North Dakota,Wells,407,8,0.0,0.0
