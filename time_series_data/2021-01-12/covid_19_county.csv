@@ -195,65 +195,65 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5147.0,Arkansas,Woodruff,453,4,10.0,1.0
 5149.0,Arkansas,Yell,2737,53,16.0,1.0
 6001.0,California,Alameda,62046,763,935.0,27.0
-6003.0,California,Alpine,72,0,0.0,0.0
+6003.0,California,Alpine,73,0,1.0,0.0
 6005.0,California,Amador,2867,28,6.0,0.0
-6007.0,California,Butte,8757,112,92.0,0.0
+6007.0,California,Butte,8795,116,130.0,4.0
 6009.0,California,Calaveras,1460,22,11.0,0.0
-6011.0,California,Colusa,1613,9,0.0,0.0
-6013.0,California,Contra Costa,47940,392,0.0,0.0
-6015.0,California,Del Norte,823,2,0.0,0.0
-6017.0,California,El Dorado,7041,33,0.0,0.0
-6019.0,California,Fresno,76581,838,960.0,36.0
-6021.0,California,Glenn,1763,18,17.0,0.0
+6011.0,California,Colusa,1643,9,30.0,0.0
+6013.0,California,Contra Costa,48449,392,509.0,0.0
+6015.0,California,Del Norte,826,2,3.0,0.0
+6017.0,California,El Dorado,7222,38,181.0,5.0
+6019.0,California,Fresno,76581,846,960.0,44.0
+6021.0,California,Glenn,1763,19,17.0,1.0
 6023.0,California,Humboldt,2138,24,14.0,1.0
 6025.0,California,Imperial,24418,449,185.0,3.0
-6027.0,California,Inyo,854,27,0.0,0.0
-6029.0,California,Kern,79728,542,0.0,0.0
-6031.0,California,Kings,17941,110,0.0,0.0
-6033.0,California,Lake,2205,27,11.0,0.0
-6035.0,California,Lassen,5022,12,0.0,0.0
-6037.0,California,Los Angeles,944319,12674,11418.0,286.0
+6027.0,California,Inyo,864,27,10.0,0.0
+6029.0,California,Kern,80674,544,946.0,2.0
+6031.0,California,Kings,18110,110,169.0,0.0
+6033.0,California,Lake,2526,27,332.0,0.0
+6035.0,California,Lassen,5034,13,12.0,1.0
+6037.0,California,Los Angeles,947035,12706,14134.0,318.0
 6039.0,California,Madera,12389,130,119.0,4.0
-6041.0,California,Marin,10928,145,0.0,0.0
+6041.0,California,Marin,11038,146,110.0,1.0
 6043.0,California,Mariposa,331,4,3.0,0.0
-6045.0,California,Mendocino,2914,31,0.0,0.0
-6047.0,California,Merced,22355,283,0.0,0.0
-6049.0,California,Modoc,368,3,0.0,0.0
-6051.0,California,Mono,1006,4,9.0,0.0
-6053.0,California,Monterey,32858,242,287.0,0.0
-6055.0,California,Napa,6822,36,121.0,0.0
-6057.0,California,Nevada,2980,70,2.0,0.0
+6045.0,California,Mendocino,2945,31,31.0,0.0
+6047.0,California,Merced,22649,285,294.0,2.0
+6049.0,California,Modoc,370,3,2.0,0.0
+6051.0,California,Mono,1025,4,28.0,0.0
+6053.0,California,Monterey,33761,247,1190.0,5.0
+6055.0,California,Napa,6880,36,179.0,0.0
+6057.0,California,Nevada,3013,70,35.0,0.0
 6059.0,California,Orange,196340,2148,2574.0,28.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,16135,161,157.0,0.0
-6063.0,California,Plumas,554,5,0.0,0.0
+6063.0,California,Plumas,562,5,8.0,0.0
 6065.0,California,Riverside,227827,2294,8341.0,44.0
-6067.0,California,Sacramento,76009,1015,615.0,0.0
+6067.0,California,Sacramento,76009,1031,615.0,16.0
 6069.0,California,San Benito,4508,39,57.0,0.0
 6071.0,California,San Bernardino,235543,1551,3372.0,5.0
 6073.0,California,San Diego,198319,1898,3524.0,41.0
 6075.0,California,San Francisco,27264,235,210.0,1.0
-6077.0,California,San Joaquin,53002,724,467.0,0.0
-6079.0,California,San Luis Obispo,14213,111,245.0,0.0
+6077.0,California,San Joaquin,53994,724,1459.0,0.0
+6079.0,California,San Luis Obispo,14233,115,265.0,4.0
 6081.0,California,San Mateo,29355,268,383.0,13.0
-6083.0,California,Santa Barbara,21767,199,0.0,0.0
+6083.0,California,Santa Barbara,22237,207,470.0,8.0
 6085.0,California,Santa Clara,85929,986,1203.0,42.0
-6087.0,California,Santa Cruz,11093,106,142.0,0.0
+6087.0,California,Santa Cruz,11093,111,142.0,5.0
 6089.0,California,Shasta,9315,103,188.0,2.0
 6091.0,California,Sierra,63,0,-2.0,0.0
-6093.0,California,Siskiyou,1341,12,0.0,0.0
+6093.0,California,Siskiyou,1360,12,19.0,0.0
 6095.0,California,Solano,23554,103,240.0,1.0
 6097.0,California,Sonoma,22191,219,266.0,1.0
 6099.0,California,Stanislaus,39709,699,493.0,13.0
-6101.0,California,Sutter,7247,73,0.0,0.0
-6103.0,California,Tehama,3752,41,0.0,0.0
-6105.0,California,Trinity,297,4,0.0,0.0
-6107.0,California,Tulare,38380,464,96.0,0.0
-6109.0,California,Tuolumne,3236,36,0.0,0.0
+6101.0,California,Sutter,7316,74,69.0,1.0
+6103.0,California,Tehama,3885,41,133.0,0.0
+6105.0,California,Trinity,298,4,1.0,0.0
+6107.0,California,Tulare,38909,474,625.0,10.0
+6109.0,California,Tuolumne,3251,36,15.0,0.0
 90006.0,California,Unassigned,0,0,0.0,0.0
-6111.0,California,Ventura,54202,351,1107.0,0.0
+6111.0,California,Ventura,54202,372,1107.0,21.0
 6113.0,California,Yolo,9699,130,89.0,3.0
-6115.0,California,Yuba,4595,26,0.0,0.0
+6115.0,California,Yuba,4638,26,43.0,0.0
 8001.0,Colorado,Adams,43028,548,125.0,3.0
 8003.0,Colorado,Alamosa,1018,26,9.0,1.0
 8005.0,Colorado,Arapahoe,41457,593,143.0,1.0
@@ -1829,18 +1829,18 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 90032.0,Nevada,Unassigned,0,0,0.0,0.0
 32031.0,Nevada,Washoe,38323,539,174.0,3.0
 32033.0,Nevada,White Pine,408,4,0.0,0.0
-33001.0,New Hampshire,Belknap,2252,69,0.0,0.0
-33003.0,New Hampshire,Carroll,1079,4,0.0,0.0
-33005.0,New Hampshire,Cheshire,1631,7,0.0,0.0
-33007.0,New Hampshire,Coos,831,18,0.0,0.0
-33009.0,New Hampshire,Grafton,1385,9,0.0,0.0
-33011.0,New Hampshire,Hillsborough,20790,479,0.0,0.0
-33013.0,New Hampshire,Merrimack,5622,81,0.0,0.0
+33001.0,New Hampshire,Belknap,2286,70,34.0,1.0
+33003.0,New Hampshire,Carroll,1096,4,17.0,0.0
+33005.0,New Hampshire,Cheshire,1688,7,57.0,0.0
+33007.0,New Hampshire,Coos,844,19,13.0,1.0
+33009.0,New Hampshire,Grafton,1416,9,31.0,0.0
+33011.0,New Hampshire,Hillsborough,20952,481,162.0,2.0
+33013.0,New Hampshire,Merrimack,5659,83,37.0,2.0
 80033.0,New Hampshire,Out of NH,0,0,0.0,0.0
-33015.0,New Hampshire,Rockingham,12692,158,0.0,0.0
-33017.0,New Hampshire,Strafford,4341,38,0.0,0.0
-33019.0,New Hampshire,Sullivan,664,6,0.0,0.0
-90033.0,New Hampshire,Unassigned,1020,0,0.0,0.0
+33015.0,New Hampshire,Rockingham,12910,160,218.0,2.0
+33017.0,New Hampshire,Strafford,4423,39,82.0,1.0
+33019.0,New Hampshire,Sullivan,680,6,16.0,0.0
+90033.0,New Hampshire,Unassigned,1195,0,175.0,0.0
 34001.0,New Jersey,Atlantic,17591,399,167.0,11.0
 34003.0,New Jersey,Bergen,57609,2383,350.0,7.0
 34005.0,New Jersey,Burlington,26782,655,421.0,3.0
