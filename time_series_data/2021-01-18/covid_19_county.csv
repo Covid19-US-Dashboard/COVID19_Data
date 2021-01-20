@@ -200,26 +200,26 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6007.0,California,Butte,9411,121,52.0,0.0
 6009.0,California,Calaveras,1608,23,12.0,0.0
 6011.0,California,Colusa,1691,9,0.0,0.0
-6013.0,California,Contra Costa,52146,449,0.0,0.0
-6015.0,California,Del Norte,857,2,0.0,0.0
+6013.0,California,Contra Costa,52547,450,401.0,1.0
+6015.0,California,Del Norte,861,2,4.0,0.0
 6017.0,California,El Dorado,7659,44,84.0,0.0
 6019.0,California,Fresno,82039,932,745.0,0.0
 6021.0,California,Glenn,1924,19,30.0,0.0
 6023.0,California,Humboldt,2322,24,28.0,0.0
 6025.0,California,Imperial,25253,463,113.0,0.0
 6027.0,California,Inyo,924,29,0.0,0.0
-6029.0,California,Kern,85362,565,0.0,0.0
-6031.0,California,Kings,19254,133,0.0,0.0
-6033.0,California,Lake,2572,28,68.0,0.0
+6029.0,California,Kern,86188,565,826.0,0.0
+6031.0,California,Kings,19321,143,67.0,10.0
+6033.0,California,Lake,2572,30,68.0,2.0
 6035.0,California,Lassen,5094,13,0.0,0.0
-6037.0,California,Los Angeles,1024190,13936,9437.0,88.0
+6037.0,California,Los Angeles,1024297,13937,9544.0,89.0
 6039.0,California,Madera,13328,130,135.0,0.0
-6041.0,California,Marin,11569,154,0.0,0.0
+6041.0,California,Marin,11632,154,63.0,0.0
 6043.0,California,Mariposa,346,4,2.0,0.0
 6045.0,California,Mendocino,3114,32,0.0,0.0
 6047.0,California,Merced,23800,296,308.0,0.0
-6049.0,California,Modoc,379,3,0.0,0.0
-6051.0,California,Mono,1091,4,8.0,0.0
+6049.0,California,Modoc,383,3,4.0,0.0
+6051.0,California,Mono,1119,4,36.0,0.0
 6053.0,California,Monterey,35418,250,0.0,0.0
 6055.0,California,Napa,7521,39,165.0,0.0
 6057.0,California,Nevada,3176,73,32.0,0.0
@@ -231,16 +231,16 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6067.0,California,Sacramento,80154,1080,1032.0,0.0
 6069.0,California,San Benito,4941,43,59.0,0.0
 6071.0,California,San Bernardino,254094,1560,2881.0,0.0
-6073.0,California,San Diego,211787,2103,0.0,0.0
+6073.0,California,San Diego,214337,2103,2550.0,0.0
 6075.0,California,San Francisco,29139,262,286.0,8.0
 6077.0,California,San Joaquin,57094,748,452.0,0.0
-6079.0,California,San Luis Obispo,15658,128,192.0,0.0
+6079.0,California,San Luis Obispo,15658,135,192.0,7.0
 6081.0,California,San Mateo,32186,294,381.0,0.0
 6083.0,California,Santa Barbara,24481,231,0.0,0.0
 6085.0,California,Santa Clara,93557,1076,932.0,11.0
 6087.0,California,Santa Cruz,12196,113,170.0,0.0
 6089.0,California,Shasta,9594,117,0.0,0.0
-6091.0,California,Sierra,70,0,0.0,0.0
+6091.0,California,Sierra,79,0,9.0,0.0
 6093.0,California,Siskiyou,1408,13,0.0,0.0
 6095.0,California,Solano,25216,105,484.0,0.0
 6097.0,California,Sonoma,23871,240,264.0,6.0
@@ -249,7 +249,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6103.0,California,Tehama,3971,42,0.0,0.0
 6105.0,California,Trinity,302,4,0.0,0.0
 6107.0,California,Tulare,41016,501,361.0,0.0
-6109.0,California,Tuolumne,3304,38,0.0,0.0
+6109.0,California,Tuolumne,3359,39,55.0,1.0
 90006.0,California,Unassigned,0,0,0.0,0.0
 6111.0,California,Ventura,61257,412,889.0,0.0
 6113.0,California,Yolo,10519,131,113.0,0.0
