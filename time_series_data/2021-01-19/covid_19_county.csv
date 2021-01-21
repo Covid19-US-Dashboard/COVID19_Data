@@ -196,64 +196,64 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5149.0,Arkansas,Yell,2863,56,9.0,0.0
 6001.0,California,Alameda,67952,765,577.0,1.0
 6003.0,California,Alpine,73,0,0.0,0.0
-6005.0,California,Amador,3016,29,15.0,0.0
-6007.0,California,Butte,9474,121,63.0,0.0
+6005.0,California,Amador,3016,31,15.0,2.0
+6007.0,California,Butte,9474,123,63.0,2.0
 6009.0,California,Calaveras,1617,23,9.0,0.0
-6011.0,California,Colusa,1691,9,0.0,0.0
-6013.0,California,Contra Costa,52547,450,0.0,0.0
-6015.0,California,Del Norte,861,2,0.0,0.0
-6017.0,California,El Dorado,7707,44,48.0,0.0
-6019.0,California,Fresno,82485,932,446.0,0.0
+6011.0,California,Colusa,1733,9,42.0,0.0
+6013.0,California,Contra Costa,52965,450,418.0,0.0
+6015.0,California,Del Norte,866,2,5.0,0.0
+6017.0,California,El Dorado,7826,44,167.0,0.0
+6019.0,California,Fresno,82485,968,446.0,36.0
 6021.0,California,Glenn,1935,19,11.0,0.0
 6023.0,California,Humboldt,2393,24,71.0,0.0
 6025.0,California,Imperial,25317,465,64.0,2.0
-6027.0,California,Inyo,924,29,0.0,0.0
-6029.0,California,Kern,86188,565,0.0,0.0
-6031.0,California,Kings,19321,143,0.0,0.0
-6033.0,California,Lake,2591,30,19.0,0.0
-6035.0,California,Lassen,5094,13,0.0,0.0
-6037.0,California,Los Angeles,1031874,14122,7577.0,185.0
+6027.0,California,Inyo,974,29,50.0,0.0
+6029.0,California,Kern,86718,565,530.0,0.0
+6031.0,California,Kings,19435,145,114.0,2.0
+6033.0,California,Lake,2612,30,40.0,0.0
+6035.0,California,Lassen,5195,16,101.0,3.0
+6037.0,California,Los Angeles,1032806,14122,8509.0,185.0
 6039.0,California,Madera,13443,151,115.0,21.0
-6041.0,California,Marin,11632,154,0.0,0.0
+6041.0,California,Marin,11693,157,61.0,3.0
 6043.0,California,Mariposa,346,4,0.0,0.0
 6045.0,California,Mendocino,3114,32,0.0,0.0
-6047.0,California,Merced,23927,296,127.0,0.0
-6049.0,California,Modoc,383,3,0.0,0.0
-6051.0,California,Mono,1119,4,0.0,0.0
-6053.0,California,Monterey,35549,250,131.0,0.0
-6055.0,California,Napa,7601,39,80.0,0.0
-6057.0,California,Nevada,3199,73,23.0,0.0
+6047.0,California,Merced,24452,308,652.0,12.0
+6049.0,California,Modoc,385,3,2.0,0.0
+6051.0,California,Mono,1121,4,2.0,0.0
+6053.0,California,Monterey,36126,255,708.0,5.0
+6055.0,California,Napa,7601,40,80.0,1.0
+6057.0,California,Nevada,3206,73,30.0,0.0
 6059.0,California,Orange,214808,2477,2419.0,110.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,17380,180,186.0,7.0
-6063.0,California,Plumas,573,5,0.0,0.0
+6063.0,California,Plumas,589,5,16.0,0.0
 6065.0,California,Riverside,250436,2645,8230.0,128.0
-6067.0,California,Sacramento,80546,1080,392.0,0.0
+6067.0,California,Sacramento,80678,1111,524.0,31.0
 6069.0,California,San Benito,4963,43,22.0,0.0
 6071.0,California,San Bernardino,256109,1560,2015.0,0.0
 6073.0,California,San Diego,216835,2109,2498.0,6.0
 6075.0,California,San Francisco,29321,262,182.0,0.0
-6077.0,California,San Joaquin,57405,748,311.0,0.0
-6079.0,California,San Luis Obispo,15742,135,84.0,0.0
+6077.0,California,San Joaquin,58290,786,1196.0,38.0
+6079.0,California,San Luis Obispo,15929,136,271.0,1.0
 6081.0,California,San Mateo,32596,309,410.0,15.0
-6083.0,California,Santa Barbara,24638,231,157.0,0.0
+6083.0,California,Santa Barbara,25083,236,602.0,5.0
 6085.0,California,Santa Clara,94366,1109,809.0,33.0
 6087.0,California,Santa Cruz,12298,113,102.0,0.0
-6089.0,California,Shasta,9600,117,6.0,0.0
-6091.0,California,Sierra,79,0,0.0,0.0
-6093.0,California,Siskiyou,1408,13,0.0,0.0
+6089.0,California,Shasta,9776,122,182.0,5.0
+6091.0,California,Sierra,82,0,3.0,0.0
+6093.0,California,Siskiyou,1446,13,38.0,0.0
 6095.0,California,Solano,25806,106,590.0,1.0
 6097.0,California,Sonoma,24068,240,197.0,0.0
 6099.0,California,Stanislaus,42882,758,334.0,9.0
-6101.0,California,Sutter,7680,77,76.0,0.0
+6101.0,California,Sutter,7754,78,150.0,1.0
 6103.0,California,Tehama,3971,42,0.0,0.0
 6105.0,California,Trinity,302,4,0.0,0.0
-6107.0,California,Tulare,41196,501,180.0,0.0
-6109.0,California,Tuolumne,3359,39,0.0,0.0
+6107.0,California,Tulare,41867,506,851.0,5.0
+6109.0,California,Tuolumne,3382,40,23.0,1.0
 90006.0,California,Unassigned,0,0,0.0,0.0
-6111.0,California,Ventura,61859,412,602.0,0.0
+6111.0,California,Ventura,62101,436,844.0,24.0
 6113.0,California,Yolo,10620,131,101.0,0.0
-6115.0,California,Yuba,4818,27,0.0,0.0
+6115.0,California,Yuba,4951,27,133.0,0.0
 8001.0,Colorado,Adams,44144,559,156.0,0.0
 8003.0,Colorado,Alamosa,1081,27,7.0,0.0
 8005.0,Colorado,Arapahoe,42934,603,144.0,0.0
@@ -2290,44 +2290,44 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 40149.0,Oklahoma,Washita,941,5,4.0,0.0
 40151.0,Oklahoma,Woods,1105,5,2.0,0.0
 40153.0,Oklahoma,Woodward,2849,12,46.0,1.0
-41001.0,Oregon,Baker,568,5,0.0,0.0
-41003.0,Oregon,Benton,1705,14,0.0,0.0
-41005.0,Oregon,Clackamas,11698,138,0.0,0.0
-41007.0,Oregon,Clatsop,686,5,0.0,0.0
-41009.0,Oregon,Columbia,1049,18,0.0,0.0
-41011.0,Oregon,Coos,938,15,0.0,0.0
-41013.0,Oregon,Crook,621,10,0.0,0.0
+41001.0,Oregon,Baker,573,5,5.0,0.0
+41003.0,Oregon,Benton,1720,14,15.0,0.0
+41005.0,Oregon,Clackamas,11760,138,62.0,0.0
+41007.0,Oregon,Clatsop,687,5,1.0,0.0
+41009.0,Oregon,Columbia,1054,18,5.0,0.0
+41011.0,Oregon,Coos,941,15,3.0,0.0
+41013.0,Oregon,Crook,623,10,2.0,0.0
 41015.0,Oregon,Curry,324,5,0.0,0.0
-41017.0,Oregon,Deschutes,4999,36,0.0,0.0
-41019.0,Oregon,Douglas,1687,43,0.0,0.0
+41017.0,Oregon,Deschutes,5036,37,37.0,1.0
+41019.0,Oregon,Douglas,1692,43,5.0,0.0
 41021.0,Oregon,Gilliam,51,1,0.0,0.0
 41023.0,Oregon,Grant,213,1,0.0,0.0
 41025.0,Oregon,Harney,175,4,0.0,0.0
-41027.0,Oregon,Hood River,954,21,0.0,0.0
-41029.0,Oregon,Jackson,6930,85,0.0,0.0
-41031.0,Oregon,Jefferson,1705,25,0.0,0.0
-41033.0,Oregon,Josephine,1743,33,0.0,0.0
-41035.0,Oregon,Klamath,2428,38,0.0,0.0
-41037.0,Oregon,Lake,230,5,0.0,0.0
-41039.0,Oregon,Lane,8353,109,0.0,0.0
-41041.0,Oregon,Lincoln,996,17,0.0,0.0
-41043.0,Oregon,Linn,3116,46,0.0,0.0
+41027.0,Oregon,Hood River,955,21,1.0,0.0
+41029.0,Oregon,Jackson,6970,85,40.0,0.0
+41031.0,Oregon,Jefferson,1707,25,2.0,0.0
+41033.0,Oregon,Josephine,1770,34,27.0,1.0
+41035.0,Oregon,Klamath,2453,38,25.0,0.0
+41037.0,Oregon,Lake,232,5,2.0,0.0
+41039.0,Oregon,Lane,8418,110,65.0,1.0
+41041.0,Oregon,Lincoln,1001,17,5.0,0.0
+41043.0,Oregon,Linn,3123,46,7.0,0.0
 41045.0,Oregon,Malheur,3135,52,0.0,0.0
-41047.0,Oregon,Marion,16247,239,0.0,0.0
-41049.0,Oregon,Morrow,938,10,0.0,0.0
-41051.0,Oregon,Multnomah,28467,459,0.0,0.0
+41047.0,Oregon,Marion,16312,239,65.0,0.0
+41049.0,Oregon,Morrow,942,10,4.0,0.0
+41051.0,Oregon,Multnomah,28586,459,119.0,0.0
 80041.0,Oregon,Out of OR,0,0,0.0,0.0
-41053.0,Oregon,Polk,2455,40,0.0,0.0
+41053.0,Oregon,Polk,2469,40,14.0,0.0
 41055.0,Oregon,Sherman,47,0,0.0,0.0
-41057.0,Oregon,Tillamook,365,2,0.0,0.0
-41059.0,Oregon,Umatilla,6793,68,0.0,0.0
+41057.0,Oregon,Tillamook,367,2,2.0,0.0
+41059.0,Oregon,Umatilla,6803,68,10.0,0.0
 90041.0,Oregon,Unassigned,0,0,0.0,0.0
-41061.0,Oregon,Union,1114,16,0.0,0.0
+41061.0,Oregon,Union,1118,16,4.0,0.0
 41063.0,Oregon,Wallowa,96,3,0.0,0.0
-41065.0,Oregon,Wasco,1081,23,0.0,0.0
-41067.0,Oregon,Washington,18734,171,0.0,0.0
+41065.0,Oregon,Wasco,1085,23,4.0,0.0
+41067.0,Oregon,Washington,18808,173,74.0,2.0
 41069.0,Oregon,Wheeler,20,1,0.0,0.0
-41071.0,Oregon,Yamhill,3190,45,0.0,0.0
+41071.0,Oregon,Yamhill,3202,45,12.0,0.0
 42001.0,Pennsylvania,Adams,5952,125,60.0,1.0
 42003.0,Pennsylvania,Allegheny,65114,1338,434.0,2.0
 42005.0,Pennsylvania,Armstrong,4331,90,29.0,0.0
@@ -3142,47 +3142,47 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 51195.0,Virginia,Wise,2526,74,6.0,3.0
 51197.0,Virginia,Wythe,1631,31,5.0,0.0
 51199.0,Virginia,York,2099,13,22.0,0.0
-53001.0,Washington,Adams,1719,17,0.0,0.0
-53003.0,Washington,Asotin,1143,25,0.0,0.0
-53005.0,Washington,Benton,13465,178,0.0,0.0
-53007.0,Washington,Chelan,5433,42,0.0,0.0
-53009.0,Washington,Clallam,832,4,0.0,0.0
-53011.0,Washington,Clark,16125,165,0.0,0.0
+53001.0,Washington,Adams,1721,18,2.0,1.0
+53003.0,Washington,Asotin,1147,25,4.0,0.0
+53005.0,Washington,Benton,13529,179,64.0,1.0
+53007.0,Washington,Chelan,5467,43,34.0,1.0
+53009.0,Washington,Clallam,840,5,8.0,1.0
+53011.0,Washington,Clark,16300,166,175.0,1.0
 53013.0,Washington,Columbia,93,4,0.0,0.0
-53015.0,Washington,Cowlitz,3164,34,0.0,0.0
-53017.0,Washington,Douglas,2893,17,0.0,0.0
+53015.0,Washington,Cowlitz,3203,35,39.0,1.0
+53017.0,Washington,Douglas,2916,17,23.0,0.0
 53019.0,Washington,Ferry,195,4,0.0,0.0
-53021.0,Washington,Franklin,9711,87,0.0,0.0
+53021.0,Washington,Franklin,9753,87,42.0,0.0
 53023.0,Washington,Garfield,102,4,0.0,0.0
-53025.0,Washington,Grant,6724,52,0.0,0.0
-53027.0,Washington,Grays Harbor,2709,28,0.0,0.0
-53029.0,Washington,Island,1087,22,0.0,0.0
+53025.0,Washington,Grant,6773,52,49.0,0.0
+53027.0,Washington,Grays Harbor,2737,28,28.0,0.0
+53029.0,Washington,Island,1095,22,8.0,0.0
 53031.0,Washington,Jefferson,273,2,0.0,0.0
-53033.0,Washington,King,73015,1152,0.0,0.0
-53035.0,Washington,Kitsap,4701,52,0.0,0.0
-53037.0,Washington,Kittitas,1953,30,0.0,0.0
+53033.0,Washington,King,73667,1166,652.0,14.0
+53035.0,Washington,Kitsap,4748,54,47.0,2.0
+53037.0,Washington,Kittitas,1976,30,23.0,0.0
 53039.0,Washington,Klickitat,569,3,0.0,0.0
-53041.0,Washington,Lewis,2978,36,0.0,0.0
-53043.0,Washington,Lincoln,294,5,0.0,0.0
-53045.0,Washington,Mason,1950,16,0.0,0.0
-53047.0,Washington,Okanogan,1938,30,0.0,0.0
+53041.0,Washington,Lewis,2996,32,18.0,-4.0
+53043.0,Washington,Lincoln,293,5,-1.0,0.0
+53045.0,Washington,Mason,1969,16,19.0,0.0
+53047.0,Washington,Okanogan,1939,32,1.0,2.0
 80053.0,Washington,Out of WA,0,0,0.0,0.0
-53049.0,Washington,Pacific,599,8,0.0,0.0
-53051.0,Washington,Pend Oreille,526,4,0.0,0.0
-53053.0,Washington,Pierce,30912,415,0.0,0.0
-53055.0,Washington,San Juan,90,0,0.0,0.0
-53057.0,Washington,Skagit,3801,46,0.0,0.0
-53059.0,Washington,Skamania,223,1,0.0,0.0
-53061.0,Washington,Snohomish,26267,442,0.0,0.0
-53063.0,Washington,Spokane,30756,415,0.0,0.0
-53065.0,Washington,Stevens,1364,19,0.0,0.0
-53067.0,Washington,Thurston,5760,60,0.0,0.0
-90053.0,Washington,Unassigned,1549,4,0.0,0.0
-53069.0,Washington,Wahkiakum,62,0,0.0,0.0
-53071.0,Washington,Walla Walla,4102,44,0.0,0.0
-53073.0,Washington,Whatcom,4885,56,0.0,0.0
-53075.0,Washington,Whitman,2989,35,0.0,0.0
-53077.0,Washington,Yakima,22988,345,0.0,0.0
+53049.0,Washington,Pacific,604,8,5.0,0.0
+53051.0,Washington,Pend Oreille,527,4,1.0,0.0
+53053.0,Washington,Pierce,31164,421,252.0,6.0
+53055.0,Washington,San Juan,89,0,-1.0,0.0
+53057.0,Washington,Skagit,3812,46,11.0,0.0
+53059.0,Washington,Skamania,229,1,6.0,0.0
+53061.0,Washington,Snohomish,26363,444,96.0,2.0
+53063.0,Washington,Spokane,31031,420,275.0,5.0
+53065.0,Washington,Stevens,1358,19,-6.0,0.0
+53067.0,Washington,Thurston,5805,62,45.0,2.0
+90053.0,Washington,Unassigned,1459,4,-90.0,0.0
+53069.0,Washington,Wahkiakum,63,0,1.0,0.0
+53071.0,Washington,Walla Walla,4126,45,24.0,1.0
+53073.0,Washington,Whatcom,4894,56,9.0,0.0
+53075.0,Washington,Whitman,3019,36,30.0,1.0
+53077.0,Washington,Yakima,23145,345,157.0,0.0
 54001.0,West Virginia,Barbour,1016,15,13.0,0.0
 54003.0,West Virginia,Berkeley,8148,72,57.0,5.0
 54005.0,West Virginia,Boone,1302,28,10.0,0.0
