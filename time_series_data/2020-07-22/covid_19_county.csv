@@ -223,7 +223,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6053.0,California,Monterey,3545,21,166.0,0.0
 6055.0,California,Napa,685,7,24.0,0.0
 6057.0,California,Nevada,242,1,11.0,0.0
-6059.0,California,Orange,31743,521,767.0,8.0
+6059.0,California,Orange,38698,521,577.0,8.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,1479,12,37.0,0.0
 6063.0,California,Plumas,27,0,2.0,0.0
@@ -1009,7 +1009,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20165.0,Kansas,Rush,5,0,1.0,0.0
 20167.0,Kansas,Russell,4,0,-1.0,0.0
 20169.0,Kansas,Saline,307,3,11.0,0.0
-20171.0,Kansas,Scott,22,0,2.0,0.0
+20171.0,Kansas,Scott,21,0,1.0,0.0
 20173.0,Kansas,Sedgwick,2918,33,91.0,0.0
 20175.0,Kansas,Seward,1149,4,28.0,0.0
 20177.0,Kansas,Shawnee,1223,14,19.0,0.0
@@ -1642,7 +1642,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29185.0,Missouri,St. Clair,11,0,1.0,0.0
 29187.0,Missouri,St. Francois,214,2,7.0,0.0
 29189.0,Missouri,St. Louis,9624,615,263.0,5.0
-29510.0,Missouri,St. Louis City,3635,164,117.0,3.0
+29510.0,Missouri,St. Louis City,4362,164,92.0,3.0
 29186.0,Missouri,Ste. Genevieve,31,1,1.0,0.0
 29207.0,Missouri,Stoddard,177,9,1.0,0.0
 29209.0,Missouri,Stone,47,1,6.0,1.0
@@ -1841,29 +1841,29 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 33017.0,New Hampshire,Strafford,310,13,3.0,0.0
 33019.0,New Hampshire,Sullivan,38,1,0.0,0.0
 90033.0,New Hampshire,Unassigned,0,0,0.0,0.0
-34001.0,New Jersey,Atlantic,3161,240,13.0,2.0
-34003.0,New Jersey,Bergen,20099,2031,47.0,-1.0
-34005.0,New Jersey,Burlington,5490,467,12.0,1.0
-34007.0,New Jersey,Camden,7888,563,21.0,3.0
-34009.0,New Jersey,Cape May,762,85,2.0,3.0
-34011.0,New Jersey,Cumberland,3095,154,7.0,0.0
-34013.0,New Jersey,Essex,19173,2089,20.0,-6.0
-34015.0,New Jersey,Gloucester,2870,199,15.0,1.0
-34017.0,New Jersey,Hudson,19281,1491,14.0,-9.0
-34019.0,New Jersey,Hunterdon,1102,126,1.0,0.0
-34021.0,New Jersey,Mercer,7858,608,19.0,0.0
-34023.0,New Jersey,Middlesex,17379,1392,224.0,-8.0
-34025.0,New Jersey,Monmouth,9720,851,37.0,0.0
-34027.0,New Jersey,Morris,7010,825,20.0,-2.0
-34029.0,New Jersey,Ocean,10054,1011,66.0,-2.0
+34001.0,New Jersey,Atlantic,3240,240,16.0,2.0
+34003.0,New Jersey,Bergen,20350,2031,54.0,-1.0
+34005.0,New Jersey,Burlington,5554,467,14.0,1.0
+34007.0,New Jersey,Camden,7962,563,24.0,3.0
+34009.0,New Jersey,Cape May,965,85,2.0,3.0
+34011.0,New Jersey,Cumberland,3124,154,8.0,0.0
+34013.0,New Jersey,Essex,19309,2089,21.0,-6.0
+34015.0,New Jersey,Gloucester,2905,199,15.0,1.0
+34017.0,New Jersey,Hudson,19494,1491,22.0,-9.0
+34019.0,New Jersey,Hunterdon,1114,126,2.0,0.0
+34021.0,New Jersey,Mercer,7870,608,19.0,0.0
+34023.0,New Jersey,Middlesex,17474,1392,226.0,-8.0
+34025.0,New Jersey,Monmouth,9833,851,42.0,0.0
+34027.0,New Jersey,Morris,7083,825,24.0,-2.0
+34029.0,New Jersey,Ocean,10173,1011,71.0,-2.0
 80034.0,New Jersey,Out of NJ,0,0,0.0,0.0
-34031.0,New Jersey,Passaic,17196,1238,15.0,-2.0
-34033.0,New Jersey,Salem,841,81,4.0,0.0
-34035.0,New Jersey,Somerset,5082,550,10.0,-3.0
-34037.0,New Jersey,Sussex,1256,195,3.0,0.0
+34031.0,New Jersey,Passaic,17295,1238,17.0,-2.0
+34033.0,New Jersey,Salem,843,81,4.0,0.0
+34035.0,New Jersey,Somerset,5170,550,14.0,-3.0
+34037.0,New Jersey,Sussex,1266,195,3.0,0.0
 90034.0,New Jersey,Unassigned,682,0,-6.0,0.0
-34039.0,New Jersey,Union,16351,1342,-164.0,-4.0
-34041.0,New Jersey,Warren,1295,169,9.0,-3.0
+34039.0,New Jersey,Union,16535,1342,-158.0,-4.0
+34041.0,New Jersey,Warren,1308,169,9.0,-3.0
 35001.0,New Mexico,Bernalillo,4005,104,85.0,1.0
 35003.0,New Mexico,Catron,4,1,0.0,0.0
 35005.0,New Mexico,Chaves,229,4,6.0,0.0
@@ -2917,7 +2917,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48433.0,Texas,Stonewall,4,0,0.0,0.0
 48435.0,Texas,Sutton,47,0,1.0,0.0
 48437.0,Texas,Swisher,69,1,2.0,0.0
-48439.0,Texas,Tarrant,23536,310,1534.0,11.0
+48439.0,Texas,Tarrant,23967,469,431.0,17.0
 48441.0,Texas,Taylor,960,13,13.0,2.0
 48443.0,Texas,Terrell,2,0,0.0,0.0
 48445.0,Texas,Terry,67,0,4.0,0.0

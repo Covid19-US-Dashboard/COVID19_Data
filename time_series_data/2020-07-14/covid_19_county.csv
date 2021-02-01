@@ -223,7 +223,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6053.0,California,Monterey,2835,18,45.0,0.0
 6055.0,California,Napa,530,4,12.0,0.0
 6057.0,California,Nevada,183,1,20.0,0.0
-6059.0,California,Orange,26120,433,865.0,9.0
+6059.0,California,Orange,33519,433,895.0,9.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,1151,11,37.0,0.0
 6063.0,California,Plumas,20,0,1.0,0.0
@@ -244,7 +244,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6093.0,California,Siskiyou,43,0,2.0,0.0
 6095.0,California,Solano,2313,31,238.0,3.0
 6097.0,California,Sonoma,1886,16,67.0,0.0
-6099.0,California,Stanislaus,5356,57,383.0,6.0
+6099.0,California,Stanislaus,5356,57,178.0,6.0
 6101.0,California,Sutter,441,4,38.0,0.0
 6103.0,California,Tehama,121,1,14.0,0.0
 6105.0,California,Trinity,2,0,0.0,0.0
@@ -1642,7 +1642,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29185.0,Missouri,St. Clair,6,0,1.0,0.0
 29187.0,Missouri,St. Francois,173,2,6.0,0.0
 29189.0,Missouri,St. Louis,8140,604,243.0,1.0
-29510.0,Missouri,St. Louis City,3044,161,74.0,2.0
+29510.0,Missouri,St. Louis City,3774,161,81.0,2.0
 29186.0,Missouri,Ste. Genevieve,25,1,1.0,0.0
 29207.0,Missouri,Stoddard,155,9,2.0,0.0
 29209.0,Missouri,Stone,30,0,8.0,0.0
@@ -1841,29 +1841,29 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 33017.0,New Hampshire,Strafford,306,13,5.0,0.0
 33019.0,New Hampshire,Sullivan,37,1,1.0,0.0
 90033.0,New Hampshire,Unassigned,0,0,-5.0,0.0
-34001.0,New Jersey,Atlantic,3047,233,24.0,1.0
-34003.0,New Jersey,Bergen,19907,2032,16.0,2.0
-34005.0,New Jersey,Burlington,5412,451,30.0,2.0
-34007.0,New Jersey,Camden,7746,551,30.0,0.0
-34009.0,New Jersey,Cape May,740,79,7.0,2.0
-34011.0,New Jersey,Cumberland,3063,152,7.0,2.0
-34013.0,New Jersey,Essex,19058,2078,19.0,1.0
-34015.0,New Jersey,Gloucester,2788,193,24.0,0.0
-34017.0,New Jersey,Hudson,19193,1487,58.0,3.0
-34019.0,New Jersey,Hunterdon,1095,126,1.0,0.0
-34021.0,New Jersey,Mercer,7807,603,12.0,1.0
-34023.0,New Jersey,Middlesex,17089,1379,30.0,2.0
-34025.0,New Jersey,Monmouth,9542,840,27.0,2.0
-34027.0,New Jersey,Morris,6921,820,12.0,1.0
-34029.0,New Jersey,Ocean,9867,998,39.0,1.0
+34001.0,New Jersey,Atlantic,3103,233,26.0,1.0
+34003.0,New Jersey,Bergen,20113,2032,19.0,2.0
+34005.0,New Jersey,Burlington,5463,451,34.0,2.0
+34007.0,New Jersey,Camden,7803,551,34.0,0.0
+34009.0,New Jersey,Cape May,921,79,18.0,2.0
+34011.0,New Jersey,Cumberland,3086,152,8.0,2.0
+34013.0,New Jersey,Essex,19179,2078,21.0,1.0
+34015.0,New Jersey,Gloucester,2819,193,25.0,0.0
+34017.0,New Jersey,Hudson,19378,1487,66.0,3.0
+34019.0,New Jersey,Hunterdon,1101,126,1.0,0.0
+34021.0,New Jersey,Mercer,7818,603,12.0,1.0
+34023.0,New Jersey,Middlesex,17159,1379,34.0,2.0
+34025.0,New Jersey,Monmouth,9619,840,29.0,2.0
+34027.0,New Jersey,Morris,6972,820,12.0,1.0
+34029.0,New Jersey,Ocean,9949,998,42.0,1.0
 80034.0,New Jersey,Out of NJ,0,0,0.0,0.0
-34031.0,New Jersey,Passaic,17105,1225,25.0,1.0
-34033.0,New Jersey,Salem,818,78,3.0,0.0
-34035.0,New Jersey,Somerset,5036,551,18.0,0.0
-34037.0,New Jersey,Sussex,1233,195,3.0,0.0
+34031.0,New Jersey,Passaic,17193,1225,28.0,1.0
+34033.0,New Jersey,Salem,820,78,3.0,0.0
+34035.0,New Jersey,Somerset,5104,551,20.0,0.0
+34037.0,New Jersey,Sussex,1240,195,3.0,0.0
 90034.0,New Jersey,Unassigned,644,0,-12.0,0.0
-34039.0,New Jersey,Union,16537,1344,18.0,1.0
-34041.0,New Jersey,Warren,1267,167,2.0,0.0
+34039.0,New Jersey,Union,16687,1344,29.0,1.0
+34041.0,New Jersey,Warren,1279,167,3.0,0.0
 35001.0,New Mexico,Bernalillo,3200,97,66.0,1.0
 35003.0,New Mexico,Catron,3,1,0.0,0.0
 35005.0,New Mexico,Chaves,184,3,5.0,0.0
@@ -2917,7 +2917,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48433.0,Texas,Stonewall,0,0,0.0,0.0
 48435.0,Texas,Sutton,25,0,4.0,0.0
 48437.0,Texas,Swisher,58,1,5.0,0.0
-48439.0,Texas,Tarrant,18483,272,322.0,0.0
+48439.0,Texas,Tarrant,19871,386,857.0,9.0
 48441.0,Texas,Taylor,794,9,-380.0,2.0
 48443.0,Texas,Terrell,2,0,0.0,0.0
 48445.0,Texas,Terry,56,0,8.0,0.0

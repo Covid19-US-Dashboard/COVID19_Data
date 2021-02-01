@@ -223,7 +223,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6053.0,California,Monterey,32394,242,0.0,0.0
 6055.0,California,Napa,6594,36,50.0,0.0
 6057.0,California,Nevada,2932,50,44.0,0.0
-6059.0,California,Orange,191004,2091,4396.0,50.0
+6059.0,California,Orange,213480,2091,1275.0,50.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,15609,159,155.0,0.0
 6063.0,California,Plumas,544,5,0.0,0.0
@@ -244,7 +244,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6093.0,California,Siskiyou,1311,12,0.0,0.0
 6095.0,California,Solano,22232,102,0.0,0.0
 6097.0,California,Sonoma,21463,218,199.0,0.0
-6099.0,California,Stanislaus,38851,675,382.0,0.0
+6099.0,California,Stanislaus,42521,675,428.0,0.0
 6101.0,California,Sutter,7072,70,54.0,0.0
 6103.0,California,Tehama,3752,41,0.0,0.0
 6105.0,California,Trinity,292,4,0.0,0.0
@@ -945,12 +945,12 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20039.0,Kansas,Decatur,237,8,0.0,0.0
 20041.0,Kansas,Dickinson,1376,18,0.0,0.0
 20043.0,Kansas,Doniphan,792,7,0.0,0.0
-20045.0,Kansas,Douglas,6810,48,0.0,0.0
+20045.0,Kansas,Douglas,7046,48,0.0,0.0
 20047.0,Kansas,Edwards,229,8,0.0,0.0
 20049.0,Kansas,Elk,136,0,0.0,0.0
 20051.0,Kansas,Ellis,3295,54,0.0,0.0
 20053.0,Kansas,Ellsworth,1100,10,0.0,0.0
-20055.0,Kansas,Finney,4980,47,0.0,0.0
+20055.0,Kansas,Finney,5629,47,0.0,0.0
 20057.0,Kansas,Ford,5304,44,0.0,0.0
 20059.0,Kansas,Franklin,2001,18,0.0,0.0
 20061.0,Kansas,Geary,2054,17,0.0,0.0
@@ -990,8 +990,8 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20129.0,Kansas,Morton,212,8,0.0,0.0
 20131.0,Kansas,Nemaha,1377,50,0.0,0.0
 20133.0,Kansas,Neosho,1406,14,0.0,0.0
-20135.0,Kansas,Ness,327,15,0.0,0.0
-20137.0,Kansas,Norton,1186,25,0.0,0.0
+20135.0,Kansas,Ness,311,15,0.0,0.0
+20137.0,Kansas,Norton,1175,25,0.0,0.0
 20139.0,Kansas,Osage,932,12,0.0,0.0
 20141.0,Kansas,Osborne,223,1,0.0,0.0
 20143.0,Kansas,Ottawa,450,8,0.0,0.0
@@ -1000,16 +1000,16 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20147.0,Kansas,Phillips,611,14,0.0,0.0
 20149.0,Kansas,Pottawatomie,1263,7,0.0,0.0
 20151.0,Kansas,Pratt,719,21,0.0,0.0
-20153.0,Kansas,Rawlins,315,7,0.0,0.0
+20153.0,Kansas,Rawlins,258,7,0.0,0.0
 20155.0,Kansas,Reno,7339,108,0.0,0.0
 20157.0,Kansas,Republic,596,11,0.0,0.0
 20159.0,Kansas,Rice,890,4,0.0,0.0
-20161.0,Kansas,Riley,5033,22,0.0,0.0
+20161.0,Kansas,Riley,5278,22,0.0,0.0
 20163.0,Kansas,Rooks,556,9,0.0,0.0
 20165.0,Kansas,Rush,365,8,0.0,0.0
 20167.0,Kansas,Russell,758,20,0.0,0.0
 20169.0,Kansas,Saline,4938,69,0.0,0.0
-20171.0,Kansas,Scott,558,16,0.0,0.0
+20171.0,Kansas,Scott,523,16,0.0,0.0
 20173.0,Kansas,Sedgwick,43349,407,0.0,0.0
 20175.0,Kansas,Seward,3577,29,0.0,0.0
 20177.0,Kansas,Shawnee,12959,225,0.0,0.0
@@ -1018,9 +1018,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20183.0,Kansas,Smith,231,1,0.0,0.0
 20185.0,Kansas,Stafford,296,9,0.0,0.0
 20187.0,Kansas,Stanton,162,5,0.0,0.0
-20189.0,Kansas,Stevens,534,6,0.0,0.0
+20189.0,Kansas,Stevens,500,6,0.0,0.0
 20191.0,Kansas,Sumner,1534,21,0.0,0.0
-20193.0,Kansas,Thomas,969,11,0.0,0.0
+20193.0,Kansas,Thomas,927,11,0.0,0.0
 20195.0,Kansas,Trego,332,5,0.0,0.0
 90020.0,Kansas,Unassigned,0,153,0.0,0.0
 20197.0,Kansas,Wabaunsee,506,8,0.0,0.0
@@ -1642,7 +1642,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29185.0,Missouri,St. Clair,498,5,6.0,0.0
 29187.0,Missouri,St. Francois,7000,76,37.0,1.0
 29189.0,Missouri,St. Louis,75200,1475,455.0,0.0
-29510.0,Missouri,St. Louis City,17446,302,8.0,0.0
+29510.0,Missouri,St. Louis City,18734,319,74.0,3.0
 29186.0,Missouri,Ste. Genevieve,1496,11,11.0,0.0
 29207.0,Missouri,Stoddard,2101,34,6.0,0.0
 29209.0,Missouri,Stone,1758,27,13.0,0.0

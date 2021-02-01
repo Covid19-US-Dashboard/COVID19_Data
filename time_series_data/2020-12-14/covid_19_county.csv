@@ -196,11 +196,11 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5149.0,Arkansas,Yell,1954,36,7.0,0.0
 6001.0,California,Alameda,38218,546,1191.0,4.0
 6003.0,California,Alpine,63,0,0.0,0.0
-6005.0,California,Amador,1637,19,124.0,0.0
+6005.0,California,Amador,1637,19,0.0,0.0
 6007.0,California,Butte,5103,67,131.0,0.0
 6009.0,California,Calaveras,710,22,2.0,0.0
 6011.0,California,Colusa,945,8,0.0,0.0
-6013.0,California,Contra Costa,29760,279,161.0,0.0
+6013.0,California,Contra Costa,29760,279,0.0,0.0
 6015.0,California,Del Norte,542,1,6.0,0.0
 6017.0,California,El Dorado,3770,8,16.0,0.0
 6019.0,California,Fresno,44114,542,358.0,0.0
@@ -208,25 +208,25 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6023.0,California,Humboldt,1295,12,64.0,2.0
 6025.0,California,Imperial,19472,376,525.0,3.0
 6027.0,California,Inyo,388,17,0.0,0.0
-6029.0,California,Kern,50624,469,685.0,2.0
-6031.0,California,Kings,13357,98,152.0,0.0
+6029.0,California,Kern,50624,469,0.0,0.0
+6031.0,California,Kings,13357,98,1.0,0.0
 6033.0,California,Lake,1271,22,39.0,0.0
 6035.0,California,Lassen,3127,6,0.0,0.0
-6037.0,California,Los Angeles,532730,8345,7244.0,47.0
+6037.0,California,Los Angeles,532730,8345,7166.0,47.0
 6039.0,California,Madera,8019,107,254.0,0.0
-6041.0,California,Marin,8491,134,81.0,2.0
+6041.0,California,Marin,8491,134,0.0,0.0
 6043.0,California,Mariposa,180,4,2.0,0.0
-6045.0,California,Mendocino,1991,24,60.0,0.0
+6045.0,California,Mendocino,1991,24,0.0,0.0
 6047.0,California,Merced,14483,207,0.0,0.0
-6049.0,California,Modoc,243,0,3.0,0.0
+6049.0,California,Modoc,243,0,0.0,0.0
 6051.0,California,Mono,700,3,0.0,0.0
-6053.0,California,Monterey,18913,156,317.0,2.0
+6053.0,California,Monterey,18913,156,317.0,0.0
 6055.0,California,Napa,4194,23,81.0,0.0
 6057.0,California,Nevada,2030,21,49.0,0.0
-6059.0,California,Orange,105764,1694,3250.0,0.0
+6059.0,California,Orange,125067,1694,4198.0,0.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,9549,93,159.0,1.0
-6063.0,California,Plumas,347,0,7.0,0.0
+6063.0,California,Plumas,347,0,0.0,0.0
 6065.0,California,Riverside,119691,1586,1356.0,13.0
 6067.0,California,Sacramento,49480,670,1161.0,0.0
 6069.0,California,San Benito,2477,21,30.0,2.0
@@ -236,20 +236,20 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6077.0,California,San Joaquin,32170,534,-30.0,0.0
 6079.0,California,San Luis Obispo,7625,46,163.0,0.0
 6081.0,California,San Mateo,18584,179,860.0,0.0
-6083.0,California,Santa Barbara,13249,140,75.0,0.0
-6085.0,California,Santa Clara,49216,526,1201.0,0.0
+6083.0,California,Santa Barbara,13249,140,51.0,0.0
+6085.0,California,Santa Clara,48015,526,0.0,0.0
 6087.0,California,Santa Cruz,5986,53,81.0,0.0
 6089.0,California,Shasta,6777,59,-76.0,1.0
 6091.0,California,Sierra,27,0,0.0,0.0
 6093.0,California,Siskiyou,914,7,0.0,0.0
 6095.0,California,Solano,13734,91,986.0,0.0
-6097.0,California,Sonoma,14705,164,0.0,2.0
-6099.0,California,Stanislaus,27398,478,654.0,5.0
+6097.0,California,Sonoma,14859,164,154.0,2.0
+6099.0,California,Stanislaus,29568,478,709.0,5.0
 6101.0,California,Sutter,4798,33,81.0,0.0
 6103.0,California,Tehama,2357,30,0.0,0.0
 6105.0,California,Trinity,225,1,0.0,0.0
 6107.0,California,Tulare,25496,327,163.0,0.0
-6109.0,California,Tuolumne,1653,17,106.0,0.0
+6109.0,California,Tuolumne,1653,17,0.0,0.0
 90006.0,California,Unassigned,0,0,0.0,0.0
 6111.0,California,Ventura,26588,198,633.0,0.0
 6113.0,California,Yolo,6267,89,150.0,0.0
@@ -991,7 +991,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20131.0,Kansas,Nemaha,1237,34,18.0,0.0
 20133.0,Kansas,Neosho,914,3,37.0,0.0
 20135.0,Kansas,Ness,300,13,3.0,0.0
-20137.0,Kansas,Norton,1141,24,9.0,0.0
+20137.0,Kansas,Norton,1106,24,6.0,0.0
 20139.0,Kansas,Osage,670,6,13.0,0.0
 20141.0,Kansas,Osborne,125,0,4.0,0.0
 20143.0,Kansas,Ottawa,342,0,13.0,0.0
@@ -1000,7 +1000,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20147.0,Kansas,Phillips,529,12,10.0,0.0
 20149.0,Kansas,Pottawatomie,834,3,35.0,0.0
 20151.0,Kansas,Pratt,611,16,11.0,1.0
-20153.0,Kansas,Rawlins,285,3,17.0,0.0
+20153.0,Kansas,Rawlins,223,3,3.0,0.0
 20155.0,Kansas,Reno,6293,76,155.0,0.0
 20157.0,Kansas,Republic,475,9,14.0,1.0
 20159.0,Kansas,Rice,631,1,23.0,0.0
@@ -1009,7 +1009,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20165.0,Kansas,Rush,308,0,7.0,0.0
 20167.0,Kansas,Russell,669,17,10.0,0.0
 20169.0,Kansas,Saline,3379,45,122.0,2.0
-20171.0,Kansas,Scott,523,9,11.0,1.0
+20171.0,Kansas,Scott,448,9,7.0,1.0
 20173.0,Kansas,Sedgwick,33554,199,845.0,0.0
 20175.0,Kansas,Seward,3315,14,0.0,0.0
 20177.0,Kansas,Shawnee,9829,177,206.0,6.0
@@ -1018,9 +1018,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20183.0,Kansas,Smith,186,1,5.0,0.0
 20185.0,Kansas,Stafford,247,5,5.0,0.0
 20187.0,Kansas,Stanton,154,2,0.0,0.0
-20189.0,Kansas,Stevens,486,5,5.0,0.0
+20189.0,Kansas,Stevens,441,5,4.0,0.0
 20191.0,Kansas,Sumner,1098,6,38.0,0.0
-20193.0,Kansas,Thomas,844,6,20.0,0.0
+20193.0,Kansas,Thomas,797,6,10.0,0.0
 20195.0,Kansas,Trego,267,3,7.0,0.0
 90020.0,Kansas,Unassigned,0,236,0.0,2.0
 20197.0,Kansas,Wabaunsee,352,2,4.0,0.0
@@ -1642,7 +1642,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29185.0,Missouri,St. Clair,397,3,5.0,0.0
 29187.0,Missouri,St. Francois,5786,51,53.0,0.0
 29189.0,Missouri,St. Louis,60837,1153,772.0,0.0
-29510.0,Missouri,St. Louis City,15070,271,96.0,1.0
+29510.0,Missouri,St. Louis City,15619,271,176.0,1.0
 29186.0,Missouri,Ste. Genevieve,1259,2,9.0,0.0
 29207.0,Missouri,Stoddard,1884,25,12.0,0.0
 29209.0,Missouri,Stone,1414,20,18.0,0.0
@@ -1841,29 +1841,29 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 33017.0,New Hampshire,Strafford,2277,19,58.0,0.0
 33019.0,New Hampshire,Sullivan,326,5,8.0,0.0
 90033.0,New Hampshire,Unassigned,617,0,47.0,0.0
-34001.0,New Jersey,Atlantic,9758,317,104.0,1.0
-34003.0,New Jersey,Bergen,40879,2205,396.0,3.0
-34005.0,New Jersey,Burlington,17179,567,305.0,0.0
-34007.0,New Jersey,Camden,24003,736,370.0,3.0
-34009.0,New Jersey,Cape May,1995,123,25.0,0.0
-34011.0,New Jersey,Cumberland,6277,193,59.0,0.0
-34013.0,New Jersey,Essex,41471,2298,382.0,3.0
-34015.0,New Jersey,Gloucester,11597,322,125.0,0.0
-34017.0,New Jersey,Hudson,37521,1633,334.0,2.0
-34019.0,New Jersey,Hunterdon,3077,133,37.0,0.0
-34021.0,New Jersey,Mercer,16312,685,178.0,0.0
-34023.0,New Jersey,Middlesex,37291,1547,552.0,1.0
-34025.0,New Jersey,Monmouth,25681,940,393.0,1.0
-34027.0,New Jersey,Morris,16934,900,242.0,2.0
-34029.0,New Jersey,Ocean,26505,1213,360.0,3.0
+34001.0,New Jersey,Atlantic,11938,317,160.0,1.0
+34003.0,New Jersey,Bergen,44644,2205,470.0,3.0
+34005.0,New Jersey,Burlington,18731,567,339.0,0.0
+34007.0,New Jersey,Camden,26112,736,416.0,3.0
+34009.0,New Jersey,Cape May,3798,123,55.0,0.0
+34011.0,New Jersey,Cumberland,7275,193,86.0,0.0
+34013.0,New Jersey,Essex,44606,2298,427.0,3.0
+34015.0,New Jersey,Gloucester,12987,322,156.0,0.0
+34017.0,New Jersey,Hudson,40390,1633,379.0,2.0
+34019.0,New Jersey,Hunterdon,3378,133,43.0,0.0
+34021.0,New Jersey,Mercer,17132,685,186.0,0.0
+34023.0,New Jersey,Middlesex,39710,1547,581.0,1.0
+34025.0,New Jersey,Monmouth,27827,940,449.0,1.0
+34027.0,New Jersey,Morris,19573,900,288.0,2.0
+34029.0,New Jersey,Ocean,29232,1213,411.0,3.0
 80034.0,New Jersey,Out of NJ,0,0,0.0,0.0
-34031.0,New Jersey,Passaic,35737,1374,369.0,2.0
-34033.0,New Jersey,Salem,2187,102,24.0,0.0
-34035.0,New Jersey,Somerset,10798,628,127.0,0.0
-34037.0,New Jersey,Sussex,3403,203,54.0,0.0
+34031.0,New Jersey,Passaic,38250,1374,408.0,2.0
+34033.0,New Jersey,Salem,2450,102,26.0,0.0
+34035.0,New Jersey,Somerset,12943,628,152.0,0.0
+34037.0,New Jersey,Sussex,3798,203,59.0,0.0
 90034.0,New Jersey,Unassigned,1028,0,9.0,0.0
-34039.0,New Jersey,Union,32669,1480,286.0,3.0
-34041.0,New Jersey,Warren,3146,176,67.0,0.0
+34039.0,New Jersey,Union,36744,1480,363.0,3.0
+34041.0,New Jersey,Warren,3454,176,73.0,0.0
 35001.0,New Mexico,Bernalillo,34604,427,455.0,6.0
 35003.0,New Mexico,Catron,51,3,0.0,0.0
 35005.0,New Mexico,Chaves,5883,69,69.0,0.0
@@ -2917,7 +2917,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48433.0,Texas,Stonewall,55,3,0.0,0.0
 48435.0,Texas,Sutton,338,5,-8.0,0.0
 48437.0,Texas,Swisher,564,11,0.0,0.0
-48439.0,Texas,Tarrant,120899,1181,1269.0,1.0
+48439.0,Texas,Tarrant,122443,1425,1544.0,8.0
 48441.0,Texas,Taylor,9494,146,85.0,1.0
 48443.0,Texas,Terrell,45,1,-1.0,0.0
 48445.0,Texas,Terry,1140,34,0.0,0.0

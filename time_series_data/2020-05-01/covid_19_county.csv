@@ -223,7 +223,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6053.0,California,Monterey,213,5,7.0,0.0
 6055.0,California,Napa,68,2,1.0,0.0
 6057.0,California,Nevada,41,1,0.0,0.0
-6059.0,California,Orange,2537,50,144.0,5.0
+6059.0,California,Orange,3047,50,107.0,5.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,150,8,3.0,0.0
 6063.0,California,Plumas,4,0,0.0,0.0
@@ -244,7 +244,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6093.0,California,Siskiyou,5,0,0.0,0.0
 6095.0,California,Solano,266,5,3.0,0.0
 6097.0,California,Sonoma,244,2,12.0,0.0
-6099.0,California,Stanislaus,380,13,41.0,2.0
+6099.0,California,Stanislaus,380,13,6.0,2.0
 6101.0,California,Sutter,31,2,1.0,0.0
 6103.0,California,Tehama,1,1,0.0,0.0
 6105.0,California,Trinity,0,0,0.0,0.0
@@ -1642,7 +1642,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29185.0,Missouri,St. Clair,2,0,0.0,0.0
 29187.0,Missouri,St. Francois,28,1,0.0,0.0
 29189.0,Missouri,St. Louis,3376,265,102.0,10.0
-29510.0,Missouri,St. Louis City,1150,65,5.0,1.0
+29510.0,Missouri,St. Louis City,1366,65,87.0,1.0
 29186.0,Missouri,Ste. Genevieve,8,1,1.0,0.0
 29207.0,Missouri,Stoddard,20,0,1.0,0.0
 29209.0,Missouri,Stone,3,0,0.0,0.0
@@ -1842,24 +1842,24 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 33019.0,New Hampshire,Sullivan,12,1,0.0,0.0
 90033.0,New Hampshire,Unassigned,15,21,12.0,9.0
 34001.0,New Jersey,Atlantic,1012,45,48.0,4.0
-34003.0,New Jersey,Bergen,15830,1187,220.0,51.0
+34003.0,New Jersey,Bergen,15832,1187,222.0,51.0
 34005.0,New Jersey,Burlington,2769,144,79.0,14.0
 34007.0,New Jersey,Camden,3646,155,127.0,8.0
-34009.0,New Jersey,Cape May,334,22,11.0,0.0
-34011.0,New Jersey,Cumberland,746,13,23.0,1.0
-34013.0,New Jersey,Essex,13994,1240,312.0,54.0
+34009.0,New Jersey,Cape May,337,22,14.0,0.0
+34011.0,New Jersey,Cumberland,747,13,24.0,1.0
+34013.0,New Jersey,Essex,13995,1240,313.0,54.0
 34015.0,New Jersey,Gloucester,1282,48,31.0,2.0
-34017.0,New Jersey,Hudson,15148,819,232.0,21.0
-34019.0,New Jersey,Hunterdon,608,31,5.0,2.0
+34017.0,New Jersey,Hudson,15149,819,233.0,21.0
+34019.0,New Jersey,Hunterdon,609,31,6.0,2.0
 34021.0,New Jersey,Mercer,4077,239,140.0,8.0
-34023.0,New Jersey,Middlesex,11947,591,232.0,20.0
+34023.0,New Jersey,Middlesex,11949,591,234.0,20.0
 34025.0,New Jersey,Monmouth,6132,355,99.0,14.0
 34027.0,New Jersey,Morris,5354,430,67.0,17.0
 34029.0,New Jersey,Ocean,6505,420,130.0,23.0
 80034.0,New Jersey,Out of NJ,0,0,0.0,0.0
 34031.0,New Jersey,Passaic,12814,599,365.0,26.0
 34033.0,New Jersey,Salem,237,11,6.0,1.0
-34035.0,New Jersey,Somerset,3537,282,73.0,12.0
+34035.0,New Jersey,Somerset,3539,282,75.0,12.0
 34037.0,New Jersey,Sussex,936,110,15.0,7.0
 90034.0,New Jersey,Unassigned,583,1534,105.0,25.0
 34039.0,New Jersey,Union,12779,714,201.0,24.0
@@ -2917,7 +2917,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48433.0,Texas,Stonewall,0,0,0.0,0.0
 48435.0,Texas,Sutton,0,0,0.0,0.0
 48437.0,Texas,Swisher,9,0,0.0,0.0
-48439.0,Texas,Tarrant,2246,68,0.0,0.0
+48439.0,Texas,Tarrant,2503,85,115.0,5.0
 48441.0,Texas,Taylor,319,5,28.0,0.0
 48443.0,Texas,Terrell,0,0,0.0,0.0
 48445.0,Texas,Terry,11,0,0.0,0.0
