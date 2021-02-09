@@ -195,65 +195,65 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5147.0,Arkansas,Woodruff,592,8,0.0,0.0
 5149.0,Arkansas,Yell,3208,66,2.0,0.0
 6001.0,California,Alameda,76648,1041,478.0,0.0
-6003.0,California,Alpine,78,0,0.0,0.0
-6005.0,California,Amador,3343,35,37.0,0.0
-6007.0,California,Butte,10513,147,33.0,0.0
+6003.0,California,Alpine,79,0,1.0,0.0
+6005.0,California,Amador,3343,36,37.0,1.0
+6007.0,California,Butte,10513,148,33.0,1.0
 6009.0,California,Calaveras,1837,23,5.0,0.0
-6011.0,California,Colusa,2004,11,0.0,0.0
-6013.0,California,Contra Costa,59107,559,0.0,0.0
-6015.0,California,Del Norte,898,3,0.0,0.0
-6017.0,California,El Dorado,8647,86,0.0,0.0
-6019.0,California,Fresno,91184,1224,240.0,0.0
+6011.0,California,Colusa,2020,11,16.0,0.0
+6013.0,California,Contra Costa,59313,560,206.0,1.0
+6015.0,California,Del Norte,904,3,6.0,0.0
+6017.0,California,El Dorado,8762,86,115.0,0.0
+6019.0,California,Fresno,91184,1254,240.0,30.0
 6021.0,California,Glenn,2141,23,5.0,0.0
 6023.0,California,Humboldt,2955,32,48.0,1.0
 6025.0,California,Imperial,26518,561,4.0,1.0
-6027.0,California,Inyo,1140,29,0.0,0.0
-6029.0,California,Kern,97249,659,0.0,0.0
-6031.0,California,Kings,21246,194,0.0,0.0
-6033.0,California,Lake,2940,34,20.0,0.0
-6035.0,California,Lassen,5435,18,0.0,0.0
-6037.0,California,Los Angeles,1149064,18135,2581.0,88.0
+6027.0,California,Inyo,1162,32,22.0,3.0
+6029.0,California,Kern,97522,659,273.0,0.0
+6031.0,California,Kings,21297,197,51.0,3.0
+6033.0,California,Lake,2940,35,20.0,1.0
+6035.0,California,Lassen,5489,19,54.0,1.0
+6037.0,California,Los Angeles,1149346,18146,2863.0,99.0
 6039.0,California,Madera,14850,184,43.0,0.0
-6041.0,California,Marin,12625,176,0.0,0.0
+6041.0,California,Marin,12657,176,32.0,0.0
 6043.0,California,Mariposa,380,5,1.0,0.0
-6045.0,California,Mendocino,3601,39,0.0,0.0
-6047.0,California,Merced,27134,362,0.0,0.0
-6049.0,California,Modoc,430,4,0.0,0.0
-6051.0,California,Mono,1180,4,0.0,0.0
+6045.0,California,Mendocino,3612,39,11.0,0.0
+6047.0,California,Merced,27424,367,290.0,5.0
+6049.0,California,Modoc,436,4,6.0,0.0
+6051.0,California,Mono,1190,4,10.0,0.0
 6053.0,California,Monterey,40532,289,0.0,0.0
 6055.0,California,Napa,8701,58,62.0,0.0
-6057.0,California,Nevada,3643,74,19.0,0.0
+6057.0,California,Nevada,3676,74,52.0,0.0
 6059.0,California,Orange,253289,3383,978.0,25.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,18973,214,137.0,8.0
-6063.0,California,Plumas,632,6,0.0,0.0
+6063.0,California,Plumas,637,6,5.0,0.0
 6065.0,California,Riverside,282736,3377,2566.0,57.0
-6067.0,California,Sacramento,88919,1302,387.0,0.0
+6067.0,California,Sacramento,88919,1318,387.0,16.0
 6069.0,California,San Benito,5548,55,32.0,0.0
 6071.0,California,San Bernardino,278802,2141,853.0,16.0
 6073.0,California,San Diego,247462,2821,898.0,0.0
 6075.0,California,San Francisco,32609,346,172.0,0.0
-6077.0,California,San Joaquin,63619,893,0.0,0.0
-6079.0,California,San Luis Obispo,18467,194,0.0,0.0
+6077.0,California,San Joaquin,64138,923,519.0,30.0
+6079.0,California,San Luis Obispo,18684,196,217.0,2.0
 6081.0,California,San Mateo,37058,436,234.0,0.0
-6083.0,California,Santa Barbara,29941,336,0.0,0.0
+6083.0,California,Santa Barbara,30087,337,146.0,1.0
 6085.0,California,Santa Clara,105386,1546,292.0,6.0
-6087.0,California,Santa Cruz,13915,159,0.0,0.0
-6089.0,California,Shasta,10632,161,0.0,0.0
+6087.0,California,Santa Cruz,14011,159,96.0,0.0
+6089.0,California,Shasta,10700,161,68.0,0.0
 6091.0,California,Sierra,95,0,0.0,0.0
-6093.0,California,Siskiyou,1598,13,0.0,0.0
+6093.0,California,Siskiyou,1629,13,31.0,0.0
 6095.0,California,Solano,28994,134,308.0,0.0
-6097.0,California,Sonoma,26836,277,0.0,0.0
+6097.0,California,Sonoma,26909,277,73.0,0.0
 6099.0,California,Stanislaus,52996,867,190.0,6.0
-6101.0,California,Sutter,8516,91,0.0,0.0
+6101.0,California,Sutter,8582,92,66.0,1.0
 6103.0,California,Tehama,4831,47,0.0,0.0
-6105.0,California,Trinity,311,5,0.0,0.0
-6107.0,California,Tulare,45834,645,0.0,0.0
-6109.0,California,Tuolumne,3660,51,0.0,0.0
+6105.0,California,Trinity,316,5,5.0,0.0
+6107.0,California,Tulare,46133,651,299.0,6.0
+6109.0,California,Tuolumne,3726,51,66.0,0.0
 90006.0,California,Unassigned,0,0,0.0,0.0
-6111.0,California,Ventura,73759,664,328.0,0.0
+6111.0,California,Ventura,73759,678,328.0,14.0
 6113.0,California,Yolo,12135,158,74.0,0.0
-6115.0,California,Yuba,5431,32,0.0,0.0
+6115.0,California,Yuba,5513,36,82.0,4.0
 8001.0,Colorado,Adams,46547,595,66.0,0.0
 8003.0,Colorado,Alamosa,1209,28,3.0,0.0
 8005.0,Colorado,Arapahoe,46138,628,117.0,1.0
