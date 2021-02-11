@@ -1,9 +1,6 @@
 name: Update Hospital Data
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron:  "* 8 * * *"
 
