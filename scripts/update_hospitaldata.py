@@ -21,9 +21,9 @@ def get_data():
     df1 = pd.read_csv(link_row[0].findAll('a')[1].attrs['href'])
     df2 = pd.read_csv(link_row[1].findAll('a')[1].attrs['href'])
     df3 = pd.read_csv(link_row[2].findAll('a')[1].attrs['href'])
-    df1 = df1[['state','collection_date','Inpatient Beds Occupied Estimated',
+    df2 = df2[['state','collection_date','Inpatient Beds Occupied Estimated',
                'Percentage of Inpatient Beds Occupied Estimated','Total Inpatient Beds']]
-    df2 = df2[['state','collection_date','Inpatient Beds Occupied by COVID-19 Patients Estimated',
+    df1 = df1[['state','collection_date','Inpatient Beds Occupied by COVID-19 Patients Estimated',
                'Percentage of Inpatient Beds Occupied by COVID-19 Patients Estimated']]
     df3 = df3[['state','collection_date','Staffed Adult ICU Beds Occupied Estimated',
                'Percentage of Staffed Adult ICU Beds Occupied Estimated','Total Staffed Adult ICU Beds']]
