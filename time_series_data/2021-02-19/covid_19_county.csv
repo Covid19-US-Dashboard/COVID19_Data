@@ -330,10 +330,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 9013.0,Connecticut,Tolland,7612,159,28.0,1.0
 90009.0,Connecticut,Unassigned,937,9,2.0,0.0
 9015.0,Connecticut,Windham,9028,176,52.0,2.0
-10001.0,Delaware,Kent,13956,281,50.0,1.0
-10003.0,Delaware,New Castle,47842,644,234.0,10.0
+10001.0,Delaware,Kent,13956,287,50.0,0.0
+10003.0,Delaware,New Castle,47842,659,234.0,0.0
 80010.0,Delaware,Out of DE,0,0,0.0,0.0
-10005.0,Delaware,Sussex,22195,418,47.0,6.0
+10005.0,Delaware,Sussex,22195,420,47.0,0.0
 90010.0,Delaware,Unassigned,188,0,-2.0,0.0
 88888.0,Diamond Princess,Diamond Princess,49,0,0.0,0.0
 11001.0,District of Columbia,District of Columbia,39461,993,160.0,1.0
@@ -2923,7 +2923,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48445.0,Texas,Terry,1675,54,8.0,0.0
 48447.0,Texas,Throckmorton,72,5,0.0,0.0
 48449.0,Texas,Titus,3557,74,3.0,0.0
-48451.0,Texas,Tom Green,16200,247,3724.0,0.0
+48451.0,Texas,Tom Green,16200,247,9.0,0.0
 48453.0,Texas,Travis,73538,809,0.0,2.0
 48455.0,Texas,Trinity,648,20,0.0,0.0
 48457.0,Texas,Tyler,1149,31,7.0,0.0
