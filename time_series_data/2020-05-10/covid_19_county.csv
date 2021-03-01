@@ -330,10 +330,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 9013.0,Connecticut,Tolland,543,47,3.0,1.0
 90009.0,Connecticut,Unassigned,300,3,54.0,0.0
 9015.0,Connecticut,Windham,270,7,4.0,1.0
-10001.0,Delaware,Kent,985,38,0.0,0.0
-10003.0,Delaware,New Castle,2275,93,0.0,0.0
+10001.0,Delaware,Kent,985,54,0.0,3.0
+10003.0,Delaware,New Castle,2275,141,0.0,7.0
 80010.0,Delaware,Out of DE,0,0,0.0,0.0
-10005.0,Delaware,Sussex,2990,90,0.0,0.0
+10005.0,Delaware,Sussex,2990,121,0.0,1.0
 90010.0,Delaware,Unassigned,27,0,0.0,0.0
 88888.0,Diamond Princess,Diamond Princess,49,0,0.0,0.0
 11001.0,District of Columbia,District of Columbia,6272,323,170.0,12.0
@@ -809,7 +809,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 18155.0,Indiana,Switzerland,14,0,0.0,0.0
 18157.0,Indiana,Tippecanoe,233,2,8.0,0.0
 18159.0,Indiana,Tipton,21,1,0.0,0.0
-90018.0,Indiana,Unassigned,0,129,0.0,1.0
+90018.0,Indiana,Unassigned,0,150,0.0,17.0
 18161.0,Indiana,Union,8,0,0.0,0.0
 18163.0,Indiana,Vanderburgh,185,2,3.0,0.0
 18165.0,Indiana,Vermillion,7,0,0.0,0.0
@@ -2122,36 +2122,36 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 38105.0,North Dakota,Williams,18,0,0.0,0.0
 69.0,Northern Mariana Islands,Northern Mariana Islands,16,2,0.0,0.0
 39001.0,Ohio,Adams,6,0,0.0,0.0
-39003.0,Ohio,Allen,144,29,0.0,0.0
+39003.0,Ohio,Allen,144,30,0.0,0.0
 39005.0,Ohio,Ashland,14,0,0.0,0.0
-39007.0,Ohio,Ashtabula,192,18,2.0,0.0
+39007.0,Ohio,Ashtabula,192,26,2.0,0.0
 39009.0,Ohio,Athens,6,1,1.0,0.0
-39011.0,Ohio,Auglaize,42,3,0.0,0.0
+39011.0,Ohio,Auglaize,42,2,0.0,0.0
 39013.0,Ohio,Belmont,234,7,5.0,0.0
 39015.0,Ohio,Brown,17,1,1.0,0.0
-39017.0,Ohio,Butler,452,13,16.0,0.0
-39019.0,Ohio,Carroll,23,1,0.0,0.0
+39017.0,Ohio,Butler,452,17,16.0,0.0
+39019.0,Ohio,Carroll,23,3,0.0,0.0
 39021.0,Ohio,Champaign,18,1,1.0,0.0
 39023.0,Ohio,Clark,93,3,3.0,0.0
 39025.0,Ohio,Clermont,123,3,1.0,0.0
-39027.0,Ohio,Clinton,34,0,1.0,0.0
-39029.0,Ohio,Columbiana,325,35,6.0,0.0
+39027.0,Ohio,Clinton,34,1,1.0,0.0
+39029.0,Ohio,Columbiana,325,43,6.0,1.0
 39031.0,Ohio,Coshocton,19,0,0.0,0.0
-39033.0,Ohio,Crawford,72,1,1.0,0.0
-39035.0,Ohio,Cuyahoga,2795,146,40.0,1.0
-39037.0,Ohio,Darke,84,14,0.0,0.0
-39039.0,Ohio,Defiance,26,1,0.0,0.0
-39041.0,Ohio,Delaware,220,4,9.0,0.0
+39033.0,Ohio,Crawford,72,2,1.0,0.0
+39035.0,Ohio,Cuyahoga,2795,163,40.0,5.0
+39037.0,Ohio,Darke,84,15,0.0,0.0
+39039.0,Ohio,Defiance,26,2,0.0,0.0
+39041.0,Ohio,Delaware,220,5,9.0,0.0
 39043.0,Ohio,Erie,80,3,1.0,0.0
-39045.0,Ohio,Fairfield,177,2,0.0,0.0
+39045.0,Ohio,Fairfield,177,3,0.0,0.0
 39047.0,Ohio,Fayette,26,0,-1.0,0.0
-39049.0,Ohio,Franklin,3777,119,67.0,5.0
+39049.0,Ohio,Franklin,3777,163,67.0,12.0
 39051.0,Ohio,Fulton,31,0,1.0,0.0
 39053.0,Ohio,Gallia,6,1,0.0,0.0
-39055.0,Ohio,Geauga,189,19,0.0,0.0
+39055.0,Ohio,Geauga,189,22,0.0,0.0
 39057.0,Ohio,Greene,59,5,6.0,0.0
 39059.0,Ohio,Guernsey,21,0,0.0,0.0
-39061.0,Ohio,Hamilton,1757,101,26.0,2.0
+39061.0,Ohio,Hamilton,1757,112,26.0,4.0
 39063.0,Ohio,Hancock,39,1,0.0,0.0
 39065.0,Ohio,Hardin,28,0,1.0,0.0
 39067.0,Ohio,Harrison,6,0,0.0,0.0
@@ -2165,51 +2165,51 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39083.0,Ohio,Knox,20,1,0.0,0.0
 39085.0,Ohio,Lake,197,8,3.0,0.0
 39087.0,Ohio,Lawrence,25,0,1.0,0.0
-39089.0,Ohio,Licking,162,7,0.0,0.0
+39089.0,Ohio,Licking,162,8,0.0,0.0
 39091.0,Ohio,Logan,23,0,0.0,0.0
-39093.0,Ohio,Lorain,548,44,5.0,0.0
-39095.0,Ohio,Lucas,1757,164,47.0,0.0
-39097.0,Ohio,Madison,83,3,2.0,0.0
-39099.0,Ohio,Mahoning,1119,122,15.0,0.0
-39101.0,Ohio,Marion,2387,13,6.0,0.0
+39093.0,Ohio,Lorain,548,52,5.0,1.0
+39095.0,Ohio,Lucas,1757,201,47.0,2.0
+39097.0,Ohio,Madison,83,4,2.0,0.0
+39099.0,Ohio,Mahoning,1119,153,15.0,9.0
+39101.0,Ohio,Marion,2387,14,6.0,0.0
 39103.0,Ohio,Medina,194,17,1.0,0.0
 39105.0,Ohio,Meigs,3,0,0.0,0.0
 39107.0,Ohio,Mercer,67,1,1.0,0.0
-39109.0,Ohio,Miami,268,28,24.0,1.0
+39109.0,Ohio,Miami,268,29,24.0,0.0
 39111.0,Ohio,Monroe,10,0,2.0,0.0
-39113.0,Ohio,Montgomery,390,10,21.0,0.0
+39113.0,Ohio,Montgomery,390,10,21.0,1.0
 39115.0,Ohio,Morgan,5,0,0.0,0.0
 39117.0,Ohio,Morrow,84,1,0.0,0.0
 39119.0,Ohio,Muskingum,25,0,0.0,0.0
 39121.0,Ohio,Noble,5,0,-1.0,0.0
-39123.0,Ohio,Ottawa,46,2,0.0,0.0
+39123.0,Ohio,Ottawa,46,3,0.0,1.0
 80039.0,Ohio,Out of OH,0,0,0.0,0.0
 39125.0,Ohio,Paulding,9,0,0.0,0.0
 39127.0,Ohio,Perry,14,1,1.0,0.0
-39129.0,Ohio,Pickaway,1845,23,1.0,0.0
+39129.0,Ohio,Pickaway,1845,31,1.0,0.0
 39131.0,Ohio,Pike,5,0,0.0,0.0
-39133.0,Ohio,Portage,276,46,2.0,0.0
+39133.0,Ohio,Portage,276,52,2.0,1.0
 39135.0,Ohio,Preble,28,1,0.0,0.0
-39137.0,Ohio,Putnam,76,13,0.0,0.0
+39137.0,Ohio,Putnam,76,12,0.0,0.0
 39139.0,Ohio,Richland,118,2,5.0,0.0
 39141.0,Ohio,Ross,51,1,3.0,0.0
 39143.0,Ohio,Sandusky,49,7,1.0,0.0
 39145.0,Ohio,Scioto,13,0,0.0,0.0
 39147.0,Ohio,Seneca,14,1,0.0,0.0
 39149.0,Ohio,Shelby,31,1,0.0,0.0
-39151.0,Ohio,Stark,500,67,21.0,0.0
-39153.0,Ohio,Summit,892,78,12.0,0.0
-39155.0,Ohio,Trumbull,406,35,2.0,0.0
+39151.0,Ohio,Stark,500,74,21.0,1.0
+39153.0,Ohio,Summit,892,152,12.0,2.0
+39155.0,Ohio,Trumbull,406,39,2.0,2.0
 39157.0,Ohio,Tuscarawas,211,1,15.0,0.0
 90039.0,Ohio,Unassigned,0,0,0.0,0.0
 39159.0,Ohio,Union,28,0,0.0,0.0
 39161.0,Ohio,Van Wert,3,0,0.0,0.0
 39163.0,Ohio,Vinton,11,0,0.0,0.0
-39165.0,Ohio,Warren,206,13,4.0,0.0
+39165.0,Ohio,Warren,206,14,4.0,0.0
 39167.0,Ohio,Washington,114,17,1.0,0.0
-39169.0,Ohio,Wayne,186,42,-2.0,0.0
+39169.0,Ohio,Wayne,186,47,-2.0,1.0
 39171.0,Ohio,Williams,44,1,0.0,0.0
-39173.0,Ohio,Wood,224,30,2.0,1.0
+39173.0,Ohio,Wood,224,39,2.0,2.0
 39175.0,Ohio,Wyandot,26,2,-1.0,0.0
 40001.0,Oklahoma,Adair,74,3,0.0,0.0
 40003.0,Oklahoma,Alfalfa,1,0,0.0,0.0
@@ -2482,7 +2482,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 44005.0,Rhode Island,Newport,161,4,0.0,0.0
 80044.0,Rhode Island,Out of RI,0,0,0.0,0.0
 44007.0,Rhode Island,Providence,7138,387,0.0,0.0
-90044.0,Rhode Island,Unassigned,2755,3,285.0,0.0
+90044.0,Rhode Island,Unassigned,2755,73,285.0,14.0
 44009.0,Rhode Island,Washington,363,27,0.0,0.0
 45001.0,South Carolina,Abbeville,34,0,0.0,0.0
 45003.0,South Carolina,Aiken,118,6,2.0,0.0

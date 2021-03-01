@@ -333,7 +333,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 10001.0,Delaware,Kent,21,0,4.0,0.0
 10003.0,Delaware,New Castle,105,0,19.0,0.0
 80010.0,Delaware,Out of DE,0,0,0.0,0.0
-10005.0,Delaware,Sussex,37,1,10.0,0.0
+10005.0,Delaware,Sussex,37,0,10.0,0.0
 90010.0,Delaware,Unassigned,0,1,0.0,1.0
 88888.0,Diamond Princess,Diamond Princess,49,0,0.0,0.0
 11001.0,District of Columbia,District of Columbia,271,3,40.0,0.0
@@ -809,7 +809,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 18155.0,Indiana,Switzerland,0,0,0.0,0.0
 18157.0,Indiana,Tippecanoe,8,1,1.0,1.0
 18159.0,Indiana,Tipton,2,0,0.0,0.0
-90018.0,Indiana,Unassigned,0,0,0.0,0.0
+90018.0,Indiana,Unassigned,0,21,0.0,-5.0
 18161.0,Indiana,Union,0,0,0.0,0.0
 18163.0,Indiana,Vanderburgh,6,0,2.0,0.0
 18165.0,Indiana,Vermillion,0,0,0.0,0.0
@@ -2482,7 +2482,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 44005.0,Rhode Island,Newport,12,1,0.0,0.0
 80044.0,Rhode Island,Out of RI,0,0,0.0,0.0
 44007.0,Rhode Island,Providence,91,0,0.0,0.0
-90044.0,Rhode Island,Unassigned,71,0,38.0,0.0
+90044.0,Rhode Island,Unassigned,71,2,38.0,2.0
 44009.0,Rhode Island,Washington,14,0,0.0,0.0
 45001.0,South Carolina,Abbeville,4,0,1.0,0.0
 45003.0,South Carolina,Aiken,6,0,4.0,0.0
