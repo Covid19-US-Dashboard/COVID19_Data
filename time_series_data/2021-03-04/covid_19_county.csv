@@ -198,62 +198,62 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6003.0,California,Alpine,82,0,0.0,0.0
 6005.0,California,Amador,3478,41,4.0,0.0
 6007.0,California,Butte,11014,167,7.0,0.0
-6009.0,California,Calaveras,1918,49,0.0,0.0
+6009.0,California,Calaveras,1922,49,4.0,0.0
 6011.0,California,Colusa,2140,13,0.0,0.0
-6013.0,California,Contra Costa,62931,696,0.0,1.0
-6015.0,California,Del Norte,1008,5,0.0,0.0
-6017.0,California,El Dorado,9195,100,0.0,0.0
+6013.0,California,Contra Costa,63053,696,122.0,1.0
+6015.0,California,Del Norte,1016,5,8.0,0.0
+6017.0,California,El Dorado,9201,100,6.0,0.0
 6019.0,California,Fresno,95893,1458,108.0,7.0
 6021.0,California,Glenn,2233,23,1.0,0.0
 6023.0,California,Humboldt,3246,33,16.0,0.0
 6025.0,California,Imperial,26939,638,13.0,0.0
-6027.0,California,Inyo,1321,37,0.0,0.0
-6029.0,California,Kern,103756,924,0.0,9.0
-6031.0,California,Kings,22091,227,0.0,7.0
+6027.0,California,Inyo,1326,37,5.0,0.0
+6029.0,California,Kern,103894,924,138.0,9.0
+6031.0,California,Kings,22119,227,28.0,7.0
 6033.0,California,Lake,3175,41,6.0,0.0
 6035.0,California,Lassen,5623,24,0.0,0.0
-6037.0,California,Los Angeles,1198098,21780,2081.0,104.0
+6037.0,California,Los Angeles,1198178,21780,2161.0,104.0
 6039.0,California,Madera,15553,214,30.0,0.0
-6041.0,California,Marin,13285,198,0.0,0.0
+6041.0,California,Marin,13316,198,31.0,0.0
 6043.0,California,Mariposa,395,7,0.0,0.0
-6045.0,California,Mendocino,3826,44,0.0,1.0
-6047.0,California,Merced,29264,412,0.0,5.0
+6045.0,California,Mendocino,3827,44,1.0,1.0
+6047.0,California,Merced,29325,412,61.0,5.0
 6049.0,California,Modoc,460,4,0.0,0.0
-6051.0,California,Mono,1214,4,0.0,0.0
-6053.0,California,Monterey,42335,329,0.0,0.0
+6051.0,California,Mono,1219,4,5.0,0.0
+6053.0,California,Monterey,42362,329,27.0,0.0
 6055.0,California,Napa,9090,74,10.0,2.0
-6057.0,California,Nevada,4009,74,21.0,0.0
+6057.0,California,Nevada,4012,74,24.0,0.0
 6059.0,California,Orange,261976,4013,178.0,47.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,19963,232,52.0,0.0
 6063.0,California,Plumas,653,6,0.0,0.0
-6065.0,California,Riverside,290498,3884,0.0,35.0
-6067.0,California,Sacramento,93819,1506,29.0,8.0
+6065.0,California,Riverside,290744,3884,246.0,35.0
+6067.0,California,Sacramento,93947,1506,157.0,8.0
 6069.0,California,San Benito,5774,61,4.0,0.0
 6071.0,California,San Bernardino,287246,3022,191.0,63.0
-6073.0,California,San Diego,261353,3359,0.0,17.0
+6073.0,California,San Diego,261861,3359,508.0,17.0
 6075.0,California,San Francisco,34443,423,56.0,1.0
-6077.0,California,San Joaquin,67123,1177,0.0,27.0
-6079.0,California,San Luis Obispo,19751,241,0.0,3.0
+6077.0,California,San Joaquin,67213,1177,90.0,27.0
+6079.0,California,San Luis Obispo,19797,241,46.0,3.0
 6081.0,California,San Mateo,39189,521,41.0,0.0
-6083.0,California,Santa Barbara,32147,421,0.0,1.0
+6083.0,California,Santa Barbara,32219,421,72.0,1.0
 6085.0,California,Santa Clara,111281,1820,205.0,22.0
-6087.0,California,Santa Cruz,14736,187,0.0,4.0
+6087.0,California,Santa Cruz,14760,187,24.0,4.0
 6089.0,California,Shasta,11086,179,32.0,0.0
 6091.0,California,Sierra,100,0,0.0,0.0
-6093.0,California,Siskiyou,1784,14,0.0,0.0
+6093.0,California,Siskiyou,1786,14,2.0,0.0
 6095.0,California,Solano,30262,165,46.0,0.0
 6097.0,California,Sonoma,28307,301,46.0,0.0
 6099.0,California,Stanislaus,56522,955,89.0,2.0
-6101.0,California,Sutter,8899,98,0.0,0.0
-6103.0,California,Tehama,5104,52,0.0,0.0
+6101.0,California,Sutter,8906,98,7.0,0.0
+6103.0,California,Tehama,5118,52,14.0,0.0
 6105.0,California,Trinity,373,5,0.0,0.0
-6107.0,California,Tulare,48114,768,0.0,0.0
-6109.0,California,Tuolumne,3966,59,0.0,0.0
+6107.0,California,Tulare,48163,768,49.0,0.0
+6109.0,California,Tuolumne,3968,59,2.0,0.0
 90006.0,California,Unassigned,0,0,0.0,0.0
 6111.0,California,Ventura,78057,876,105.0,6.0
 6113.0,California,Yolo,12890,185,23.0,0.0
-6115.0,California,Yuba,5776,39,0.0,1.0
+6115.0,California,Yuba,5786,39,10.0,1.0
 8001.0,Colorado,Adams,48876,615,146.0,0.0
 8003.0,Colorado,Alamosa,1304,28,10.0,0.0
 8005.0,Colorado,Arapahoe,48927,654,132.0,1.0
