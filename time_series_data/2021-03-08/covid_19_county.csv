@@ -195,65 +195,65 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5147.0,Arkansas,Woodruff,626,11,0.0,0.0
 5149.0,Arkansas,Yell,3387,63,1.0,0.0
 6001.0,California,Alameda,81433,1293,88.0,1.0
-6003.0,California,Alpine,85,0,1.0,0.0
+6003.0,California,Alpine,84,0,0.0,0.0
 6005.0,California,Amador,3489,41,2.0,0.0
 6007.0,California,Butte,11075,169,10.0,0.0
-6009.0,California,Calaveras,1933,49,5.0,0.0
-6011.0,California,Colusa,2144,13,2.0,0.0
-6013.0,California,Contra Costa,63493,708,196.0,0.0
-6015.0,California,Del Norte,1034,5,7.0,0.0
-6017.0,California,El Dorado,9239,100,35.0,0.0
+6009.0,California,Calaveras,1928,49,0.0,0.0
+6011.0,California,Colusa,2142,13,0.0,0.0
+6013.0,California,Contra Costa,63400,708,103.0,0.0
+6015.0,California,Del Norte,1027,5,0.0,0.0
+6017.0,California,El Dorado,9204,100,0.0,0.0
 6019.0,California,Fresno,96549,1488,183.0,0.0
 6021.0,California,Glenn,2244,23,3.0,0.0
 6023.0,California,Humboldt,3308,33,42.0,0.0
-6025.0,California,Imperial,27019,661,10.0,20.0
-6027.0,California,Inyo,1344,37,10.0,0.0
-6029.0,California,Kern,104307,942,126.0,0.0
-6031.0,California,Kings,22211,229,36.0,2.0
-6033.0,California,Lake,3192,42,3.0,1.0
-6035.0,California,Lassen,5629,25,6.0,0.0
-6037.0,California,Los Angeles,1204069,22041,917.0,12.0
+6025.0,California,Imperial,27019,641,10.0,0.0
+6027.0,California,Inyo,1334,37,0.0,0.0
+6029.0,California,Kern,104242,942,61.0,0.0
+6031.0,California,Kings,22184,227,9.0,0.0
+6033.0,California,Lake,3192,41,3.0,0.0
+6035.0,California,Lassen,5633,25,10.0,0.0
+6037.0,California,Los Angeles,1204018,22041,866.0,12.0
 6039.0,California,Madera,15675,214,29.0,0.0
-6041.0,California,Marin,13382,199,24.0,1.0
+6041.0,California,Marin,13368,199,10.0,1.0
 6043.0,California,Mariposa,396,7,1.0,0.0
-6045.0,California,Mendocino,3845,44,6.0,0.0
-6047.0,California,Merced,29557,415,181.0,2.0
-6049.0,California,Modoc,462,4,2.0,0.0
-6051.0,California,Mono,1222,4,3.0,0.0
+6045.0,California,Mendocino,3842,44,3.0,0.0
+6047.0,California,Merced,29376,413,0.0,0.0
+6049.0,California,Modoc,460,4,0.0,0.0
+6051.0,California,Mono,1219,4,0.0,0.0
 6053.0,California,Monterey,42404,331,0.0,0.0
 6055.0,California,Napa,9137,75,8.0,0.0
-6057.0,California,Nevada,4060,74,16.0,0.0
+6057.0,California,Nevada,4052,74,8.0,0.0
 6059.0,California,Orange,262849,4252,175.0,26.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,20162,232,127.0,0.0
-6063.0,California,Plumas,658,6,4.0,0.0
+6063.0,California,Plumas,654,6,0.0,0.0
 6065.0,California,Riverside,291040,3912,136.0,20.0
-6067.0,California,Sacramento,94561,1521,229.0,11.0
+6067.0,California,Sacramento,94513,1510,181.0,0.0
 6069.0,California,San Benito,5795,61,2.0,0.0
 6071.0,California,San Bernardino,288044,3176,177.0,23.0
-6073.0,California,San Diego,263275,3390,494.0,5.0
-6075.0,California,San Francisco,34594,436,34.0,4.0
-6077.0,California,San Joaquin,67395,1189,111.0,7.0
-6079.0,California,San Luis Obispo,19860,247,25.0,1.0
+6073.0,California,San Diego,262968,3390,187.0,5.0
+6075.0,California,San Francisco,34594,432,34.0,0.0
+6077.0,California,San Joaquin,67284,1182,0.0,0.0
+6079.0,California,San Luis Obispo,19835,246,0.0,0.0
 6081.0,California,San Mateo,39436,525,52.0,0.0
-6083.0,California,Santa Barbara,32414,424,113.0,1.0
+6083.0,California,Santa Barbara,32347,423,46.0,0.0
 6085.0,California,Santa Clara,111952,1827,138.0,5.0
-6087.0,California,Santa Cruz,14863,187,73.0,0.0
+6087.0,California,Santa Cruz,14790,187,0.0,0.0
 6089.0,California,Shasta,11102,179,0.0,0.0
 6091.0,California,Sierra,100,0,0.0,0.0
-6093.0,California,Siskiyou,1804,14,14.0,0.0
+6093.0,California,Siskiyou,1790,14,0.0,0.0
 6095.0,California,Solano,30404,167,99.0,0.0
 6097.0,California,Sonoma,28533,303,49.0,0.0
 6099.0,California,Stanislaus,56885,959,183.0,2.0
-6101.0,California,Sutter,8943,98,20.0,0.0
+6101.0,California,Sutter,8923,98,0.0,0.0
 6103.0,California,Tehama,5128,52,10.0,0.0
-6105.0,California,Trinity,375,5,2.0,0.0
-6107.0,California,Tulare,48319,773,116.0,3.0
-6109.0,California,Tuolumne,3982,59,10.0,0.0
+6105.0,California,Trinity,373,5,0.0,0.0
+6107.0,California,Tulare,48203,770,0.0,0.0
+6109.0,California,Tuolumne,3972,59,0.0,0.0
 90006.0,California,Unassigned,0,0,0.0,0.0
-6111.0,California,Ventura,78487,895,48.0,12.0
+6111.0,California,Ventura,78487,883,48.0,0.0
 6113.0,California,Yolo,12988,186,37.0,1.0
-6115.0,California,Yuba,5831,39,36.0,0.0
+6115.0,California,Yuba,5795,39,0.0,0.0
 8001.0,Colorado,Adams,49259,615,44.0,0.0
 8003.0,Colorado,Alamosa,1311,29,0.0,0.0
 8005.0,Colorado,Arapahoe,49374,658,53.0,0.0
@@ -1660,10 +1660,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 30001.0,Montana,Beaverhead,867,8,0.0,0.0
 30003.0,Montana,Big Horn,2342,72,0.0,0.0
 30005.0,Montana,Blaine,706,24,0.0,0.0
-30007.0,Montana,Broadwater,415,5,0.0,0.0
-30009.0,Montana,Carbon,838,11,0.0,0.0
+30007.0,Montana,Broadwater,416,5,1.0,0.0
+30009.0,Montana,Carbon,839,11,1.0,0.0
 30011.0,Montana,Carter,145,5,0.0,0.0
-30013.0,Montana,Cascade,7747,150,0.0,0.0
+30013.0,Montana,Cascade,7749,150,2.0,0.0
 30015.0,Montana,Chouteau,490,5,0.0,0.0
 30017.0,Montana,Custer,1144,15,0.0,0.0
 30019.0,Montana,Daniels,197,7,0.0,0.0
@@ -1671,24 +1671,24 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 30023.0,Montana,Deer Lodge,1051,13,0.0,0.0
 30025.0,Montana,Fallon,278,2,0.0,0.0
 30027.0,Montana,Fergus,1062,27,0.0,0.0
-30029.0,Montana,Flathead,11156,81,0.0,0.0
-30031.0,Montana,Gallatin,12479,54,0.0,0.0
+30029.0,Montana,Flathead,11169,81,13.0,0.0
+30031.0,Montana,Gallatin,12486,54,7.0,0.0
 30033.0,Montana,Garfield,76,2,0.0,0.0
 30035.0,Montana,Glacier,1522,30,0.0,0.0
 30037.0,Montana,Golden Valley,53,2,0.0,0.0
 30039.0,Montana,Granite,190,2,0.0,0.0
 30041.0,Montana,Hill,1933,39,0.0,0.0
-30043.0,Montana,Jefferson,1020,8,0.0,0.0
+30043.0,Montana,Jefferson,1022,8,2.0,0.0
 30045.0,Montana,Judith Basin,86,1,0.0,0.0
 30047.0,Montana,Lake,1941,26,0.0,0.0
-30049.0,Montana,Lewis and Clark,6406,68,0.0,0.0
+30049.0,Montana,Lewis and Clark,6409,68,3.0,0.0
 30051.0,Montana,Liberty,116,1,0.0,0.0
-30053.0,Montana,Lincoln,1502,13,0.0,0.0
+30053.0,Montana,Lincoln,1503,13,1.0,0.0
 30057.0,Montana,Madison,710,7,0.0,0.0
 30055.0,Montana,McCone,179,1,0.0,0.0
 30059.0,Montana,Meagher,125,7,0.0,0.0
 30061.0,Montana,Mineral,235,0,0.0,0.0
-30063.0,Montana,Missoula,8239,83,0.0,0.0
+30063.0,Montana,Missoula,8247,83,8.0,0.0
 30065.0,Montana,Musselshell,310,8,0.0,0.0
 80030.0,Montana,Out of MT,0,0,0.0,0.0
 30067.0,Montana,Park,1146,11,0.0,0.0
@@ -1705,16 +1705,16 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 30089.0,Montana,Sanders,592,9,0.0,0.0
 30091.0,Montana,Sheridan,391,5,0.0,0.0
 30093.0,Montana,Silver Bow,3808,81,0.0,0.0
-30095.0,Montana,Stillwater,696,13,0.0,0.0
+30095.0,Montana,Stillwater,697,13,1.0,0.0
 30097.0,Montana,Sweet Grass,369,7,0.0,0.0
 30099.0,Montana,Teton,430,5,0.0,0.0
 30101.0,Montana,Toole,706,10,0.0,0.0
 30103.0,Montana,Treasure,55,1,0.0,0.0
-90030.0,Montana,Unassigned,5524,0,5524.0,0.0
-30105.0,Montana,Valley,831,11,0.0,0.0
+90030.0,Montana,Unassigned,0,0,0.0,0.0
+30105.0,Montana,Valley,834,11,3.0,0.0
 30107.0,Montana,Wheatland,174,6,0.0,0.0
 30109.0,Montana,Wibaux,118,6,0.0,0.0
-30111.0,Montana,Yellowstone,16323,237,0.0,0.0
+30111.0,Montana,Yellowstone,16326,237,3.0,0.0
 31001.0,Nebraska,Adams,2723,38,1.0,0.0
 31003.0,Nebraska,Antelope,481,6,0.0,0.0
 31005.0,Nebraska,Arthur,22,1,0.0,0.0
