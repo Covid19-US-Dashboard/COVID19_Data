@@ -2201,7 +2201,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39153.0,Ohio,Summit,41997,879,93.0,0.0
 39155.0,Ohio,Trumbull,14733,446,12.0,0.0
 39157.0,Ohio,Tuscarawas,8197,236,3.0,0.0
-90039.0,Ohio,Unassigned,0,0,0.0,0.0
+90039.0,Ohio,Unassigned,0,1,0.0,0.0
 39159.0,Ohio,Union,5302,45,9.0,0.0
 39161.0,Ohio,Van Wert,2326,60,1.0,0.0
 39163.0,Ohio,Vinton,777,13,2.0,0.0
@@ -3007,141 +3007,141 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 50025.0,Vermont,Windham,1042,14,4.0,1.0
 50027.0,Vermont,Windsor,1131,11,7.0,0.0
 78.0,Virgin Islands,Virgin Islands,2767,25,0.0,0.0
-51001.0,Virginia,Accomack,2677,37,0.0,0.0
-51003.0,Virginia,Albemarle,5125,76,0.0,0.0
-51510.0,Virginia,Alexandria,10699,128,0.0,0.0
-51005.0,Virginia,Alleghany,1261,48,0.0,0.0
-51007.0,Virginia,Amelia,802,26,0.0,0.0
-51009.0,Virginia,Amherst,2754,33,0.0,0.0
-51011.0,Virginia,Appomattox,1455,23,0.0,0.0
-51013.0,Virginia,Arlington,13811,242,0.0,0.0
-51015.0,Virginia,Augusta,5314,66,0.0,0.0
-51017.0,Virginia,Bath,247,10,0.0,0.0
-51019.0,Virginia,Bedford,5947,96,0.0,0.0
-51021.0,Virginia,Bland,628,10,0.0,0.0
-51023.0,Virginia,Botetourt,2359,34,0.0,0.0
+51001.0,Virginia,Accomack,2682,37,5.0,0.0
+51003.0,Virginia,Albemarle,5137,76,12.0,0.0
+51510.0,Virginia,Alexandria,10740,128,41.0,0.0
+51005.0,Virginia,Alleghany,1263,48,2.0,0.0
+51007.0,Virginia,Amelia,803,26,1.0,0.0
+51009.0,Virginia,Amherst,2758,33,4.0,0.0
+51011.0,Virginia,Appomattox,1457,23,2.0,0.0
+51013.0,Virginia,Arlington,13856,242,45.0,0.0
+51015.0,Virginia,Augusta,5323,66,9.0,0.0
+51017.0,Virginia,Bath,248,10,1.0,0.0
+51019.0,Virginia,Bedford,5952,96,5.0,0.0
+51021.0,Virginia,Bland,631,10,3.0,0.0
+51023.0,Virginia,Botetourt,2367,34,8.0,0.0
 51520.0,Virginia,Bristol,1244,30,0.0,0.0
 51025.0,Virginia,Brunswick,1237,20,0.0,0.0
-51027.0,Virginia,Buchanan,1337,36,0.0,0.0
-51029.0,Virginia,Buckingham,2053,28,0.0,0.0
-51530.0,Virginia,Buena Vista,858,19,0.0,0.0
-51031.0,Virginia,Campbell,4160,79,0.0,0.0
-51033.0,Virginia,Caroline,1899,31,0.0,0.0
-51035.0,Virginia,Carroll,2193,65,0.0,0.0
-51036.0,Virginia,Charles City,426,15,0.0,0.0
-51037.0,Virginia,Charlotte,784,16,0.0,0.0
-51540.0,Virginia,Charlottesville,3752,53,0.0,0.0
-51550.0,Virginia,Chesapeake,19042,264,0.0,0.0
-51041.0,Virginia,Chesterfield,24731,384,0.0,0.0
-51043.0,Virginia,Clarke,855,19,0.0,0.0
-51570.0,Virginia,Colonial Heights,1469,57,0.0,0.0
-51580.0,Virginia,Covington,561,12,0.0,0.0
-51045.0,Virginia,Craig,254,5,0.0,0.0
-51047.0,Virginia,Culpeper,4197,56,0.0,0.0
-51049.0,Virginia,Cumberland,410,9,0.0,0.0
-51590.0,Virginia,Danville,4119,122,0.0,0.0
-51051.0,Virginia,Dickenson,889,15,0.0,0.0
-51053.0,Virginia,Dinwiddie,1923,42,0.0,0.0
-51595.0,Virginia,Emporia,640,41,0.0,0.0
-51057.0,Virginia,Essex,672,8,0.0,0.0
-51059.0,Virginia,Fairfax,69514,1035,0.0,0.0
-51600.0,Virginia,Fairfax City,508,16,0.0,0.0
+51027.0,Virginia,Buchanan,1338,36,1.0,0.0
+51029.0,Virginia,Buckingham,2054,28,1.0,0.0
+51530.0,Virginia,Buena Vista,861,19,3.0,0.0
+51031.0,Virginia,Campbell,4162,81,2.0,2.0
+51033.0,Virginia,Caroline,1925,31,26.0,0.0
+51035.0,Virginia,Carroll,2195,65,2.0,0.0
+51036.0,Virginia,Charles City,427,15,1.0,0.0
+51037.0,Virginia,Charlotte,785,16,1.0,0.0
+51540.0,Virginia,Charlottesville,3755,53,3.0,0.0
+51550.0,Virginia,Chesapeake,19087,264,45.0,0.0
+51041.0,Virginia,Chesterfield,24806,385,75.0,1.0
+51043.0,Virginia,Clarke,861,18,6.0,-1.0
+51570.0,Virginia,Colonial Heights,1473,57,4.0,0.0
+51580.0,Virginia,Covington,563,12,2.0,0.0
+51045.0,Virginia,Craig,255,5,1.0,0.0
+51047.0,Virginia,Culpeper,4206,56,9.0,0.0
+51049.0,Virginia,Cumberland,412,9,2.0,0.0
+51590.0,Virginia,Danville,4129,122,10.0,0.0
+51051.0,Virginia,Dickenson,892,15,3.0,0.0
+51053.0,Virginia,Dinwiddie,1927,41,4.0,-1.0
+51595.0,Virginia,Emporia,641,41,1.0,0.0
+51057.0,Virginia,Essex,673,8,1.0,0.0
+51059.0,Virginia,Fairfax,69708,1035,194.0,0.0
+51600.0,Virginia,Fairfax City,508,17,0.0,1.0
 51610.0,Virginia,Falls Church,371,10,0.0,0.0
-51061.0,Virginia,Fauquier,4158,61,0.0,0.0
-51063.0,Virginia,Floyd,770,20,0.0,0.0
+51061.0,Virginia,Fauquier,4166,61,8.0,0.0
+51063.0,Virginia,Floyd,773,20,3.0,0.0
 51065.0,Virginia,Fluvanna,1451,17,0.0,0.0
-51067.0,Virginia,Franklin,3785,71,0.0,0.0
-51620.0,Virginia,Franklin City,1031,28,0.0,0.0
-51069.0,Virginia,Frederick,7022,96,0.0,0.0
-51630.0,Virginia,Fredericksburg,1830,22,0.0,0.0
-51640.0,Virginia,Galax,1010,48,0.0,0.0
-51071.0,Virginia,Giles,1129,17,0.0,0.0
-51073.0,Virginia,Gloucester,1988,45,0.0,0.0
-51075.0,Virginia,Goochland,1270,20,0.0,0.0
-51077.0,Virginia,Grayson,1174,31,0.0,0.0
-51079.0,Virginia,Greene,1062,15,0.0,0.0
-51081.0,Virginia,Greensville,1491,24,0.0,0.0
-51083.0,Virginia,Halifax,2605,72,0.0,0.0
-51650.0,Virginia,Hampton,9156,145,0.0,0.0
-51085.0,Virginia,Hanover,7007,144,0.0,0.0
-51660.0,Virginia,Harrisonburg,6018,94,0.0,0.0
-51087.0,Virginia,Henrico,22390,561,0.0,0.0
-51089.0,Virginia,Henry,4299,120,0.0,0.0
+51067.0,Virginia,Franklin,3793,71,8.0,0.0
+51620.0,Virginia,Franklin City,1036,28,5.0,0.0
+51069.0,Virginia,Frederick,7042,96,20.0,0.0
+51630.0,Virginia,Fredericksburg,1835,22,5.0,0.0
+51640.0,Virginia,Galax,1013,48,3.0,0.0
+51071.0,Virginia,Giles,1132,17,3.0,0.0
+51073.0,Virginia,Gloucester,1994,45,6.0,0.0
+51075.0,Virginia,Goochland,1274,20,4.0,0.0
+51077.0,Virginia,Grayson,1175,31,1.0,0.0
+51079.0,Virginia,Greene,1071,15,9.0,0.0
+51081.0,Virginia,Greensville,1493,24,2.0,0.0
+51083.0,Virginia,Halifax,2609,72,4.0,0.0
+51650.0,Virginia,Hampton,9183,145,27.0,0.0
+51085.0,Virginia,Hanover,7038,145,31.0,1.0
+51660.0,Virginia,Harrisonburg,6037,94,19.0,0.0
+51087.0,Virginia,Henrico,22452,562,62.0,1.0
+51089.0,Virginia,Henry,4305,120,6.0,0.0
 51091.0,Virginia,Highland,98,1,0.0,0.0
-51670.0,Virginia,Hopewell,2255,64,0.0,0.0
-51093.0,Virginia,Isle of Wight,2796,58,0.0,0.0
-51095.0,Virginia,James City,4082,69,0.0,0.0
-51099.0,Virginia,King George,1477,17,0.0,0.0
-51101.0,Virginia,King William,1012,10,0.0,0.0
-51097.0,Virginia,King and Queen,336,8,0.0,0.0
+51670.0,Virginia,Hopewell,2267,64,12.0,0.0
+51093.0,Virginia,Isle of Wight,2812,58,16.0,0.0
+51095.0,Virginia,James City,4085,69,3.0,0.0
+51099.0,Virginia,King George,1483,17,6.0,0.0
+51101.0,Virginia,King William,1021,10,9.0,0.0
+51097.0,Virginia,King and Queen,337,8,1.0,0.0
 51103.0,Virginia,Lancaster,679,15,0.0,0.0
 51105.0,Virginia,Lee,2346,44,0.0,0.0
-51678.0,Virginia,Lexington,1143,31,0.0,0.0
-51107.0,Virginia,Loudoun,24434,262,0.0,0.0
-51109.0,Virginia,Louisa,1739,27,0.0,0.0
-51111.0,Virginia,Lunenburg,701,9,0.0,0.0
-51680.0,Virginia,Lynchburg,7019,144,0.0,0.0
-51113.0,Virginia,Madison,550,14,0.0,0.0
-51683.0,Virginia,Manassas,4107,45,0.0,0.0
-51685.0,Virginia,Manassas Park,1147,12,0.0,0.0
-51690.0,Virginia,Martinsville,1527,71,0.0,0.0
+51678.0,Virginia,Lexington,1145,31,2.0,0.0
+51107.0,Virginia,Loudoun,24491,263,57.0,1.0
+51109.0,Virginia,Louisa,1744,27,5.0,0.0
+51111.0,Virginia,Lunenburg,705,9,4.0,0.0
+51680.0,Virginia,Lynchburg,7028,144,9.0,0.0
+51113.0,Virginia,Madison,551,14,1.0,0.0
+51683.0,Virginia,Manassas,4114,45,7.0,0.0
+51685.0,Virginia,Manassas Park,1149,12,2.0,0.0
+51690.0,Virginia,Martinsville,1530,71,3.0,0.0
 51115.0,Virginia,Mathews,564,12,0.0,0.0
-51117.0,Virginia,Mecklenburg,2085,61,0.0,0.0
+51117.0,Virginia,Mecklenburg,2096,61,11.0,0.0
 51119.0,Virginia,Middlesex,542,18,0.0,0.0
-51121.0,Virginia,Montgomery,8545,86,0.0,0.0
-51125.0,Virginia,Nelson,843,11,0.0,0.0
-51127.0,Virginia,New Kent,1317,13,0.0,0.0
-51700.0,Virginia,Newport News,12201,202,0.0,0.0
-51710.0,Virginia,Norfolk,15616,228,0.0,0.0
+51121.0,Virginia,Montgomery,8572,86,27.0,0.0
+51125.0,Virginia,Nelson,845,11,2.0,0.0
+51127.0,Virginia,New Kent,1320,13,3.0,0.0
+51700.0,Virginia,Newport News,12243,202,42.0,0.0
+51710.0,Virginia,Norfolk,15657,229,41.0,1.0
 51131.0,Virginia,Northampton,731,34,0.0,0.0
 51133.0,Virginia,Northumberland,691,19,0.0,0.0
-51720.0,Virginia,Norton,246,6,0.0,0.0
-51135.0,Virginia,Nottoway,1836,42,0.0,0.0
-51137.0,Virginia,Orange,1934,34,0.0,0.0
+51720.0,Virginia,Norton,247,6,1.0,0.0
+51135.0,Virginia,Nottoway,1841,43,5.0,1.0
+51137.0,Virginia,Orange,1944,34,10.0,0.0
 80051.0,Virginia,Out of VA,0,0,0.0,0.0
-51139.0,Virginia,Page,1876,57,0.0,0.0
-51141.0,Virginia,Patrick,1266,40,0.0,0.0
-51730.0,Virginia,Petersburg,3399,74,0.0,0.0
-51143.0,Virginia,Pittsylvania,5203,74,0.0,0.0
-51735.0,Virginia,Poquoson,767,16,0.0,0.0
-51740.0,Virginia,Portsmouth,8086,162,0.0,0.0
-51145.0,Virginia,Powhatan,1725,10,0.0,0.0
-51147.0,Virginia,Prince Edward,1993,31,0.0,0.0
-51149.0,Virginia,Prince George,3141,21,0.0,0.0
-51153.0,Virginia,Prince William,40885,469,0.0,0.0
-51155.0,Virginia,Pulaski,2398,60,0.0,0.0
-51750.0,Virginia,Radford,1955,18,0.0,0.0
-51157.0,Virginia,Rappahannock,313,2,0.0,0.0
-51159.0,Virginia,Richmond,1426,11,0.0,0.0
-51760.0,Virginia,Richmond City,15340,234,0.0,0.0
-51161.0,Virginia,Roanoke,7594,124,0.0,0.0
-51770.0,Virginia,Roanoke City,7826,177,0.0,0.0
-51163.0,Virginia,Rockbridge,1427,44,0.0,0.0
-51165.0,Virginia,Rockingham,6218,102,0.0,0.0
-51167.0,Virginia,Russell,2094,35,0.0,0.0
-51775.0,Virginia,Salem,1942,44,0.0,0.0
-51169.0,Virginia,Scott,1653,50,0.0,0.0
-51171.0,Virginia,Shenandoah,3844,127,0.0,0.0
-51173.0,Virginia,Smyth,2562,89,0.0,0.0
-51175.0,Virginia,Southampton,1881,51,0.0,0.0
-51177.0,Virginia,Spotsylvania,8598,107,0.0,0.0
-51179.0,Virginia,Stafford,9891,68,0.0,0.0
-51790.0,Virginia,Staunton,2504,66,0.0,0.0
-51800.0,Virginia,Suffolk,7175,173,0.0,0.0
+51139.0,Virginia,Page,1879,57,3.0,0.0
+51141.0,Virginia,Patrick,1267,40,1.0,0.0
+51730.0,Virginia,Petersburg,3413,74,14.0,0.0
+51143.0,Virginia,Pittsylvania,5220,75,17.0,1.0
+51735.0,Virginia,Poquoson,772,16,5.0,0.0
+51740.0,Virginia,Portsmouth,8119,162,33.0,0.0
+51145.0,Virginia,Powhatan,1730,10,5.0,0.0
+51147.0,Virginia,Prince Edward,1996,31,3.0,0.0
+51149.0,Virginia,Prince George,3151,21,10.0,0.0
+51153.0,Virginia,Prince William,40969,469,84.0,0.0
+51155.0,Virginia,Pulaski,2402,60,4.0,0.0
+51750.0,Virginia,Radford,1960,18,5.0,0.0
+51157.0,Virginia,Rappahannock,314,2,1.0,0.0
+51159.0,Virginia,Richmond,1431,11,5.0,0.0
+51760.0,Virginia,Richmond City,15367,234,27.0,0.0
+51161.0,Virginia,Roanoke,7608,125,14.0,1.0
+51770.0,Virginia,Roanoke City,7848,177,22.0,0.0
+51163.0,Virginia,Rockbridge,1431,44,4.0,0.0
+51165.0,Virginia,Rockingham,6236,102,18.0,0.0
+51167.0,Virginia,Russell,2099,35,5.0,0.0
+51775.0,Virginia,Salem,1943,44,1.0,0.0
+51169.0,Virginia,Scott,1660,50,7.0,0.0
+51171.0,Virginia,Shenandoah,3848,127,4.0,0.0
+51173.0,Virginia,Smyth,2566,89,4.0,0.0
+51175.0,Virginia,Southampton,1883,52,2.0,1.0
+51177.0,Virginia,Spotsylvania,8616,107,18.0,0.0
+51179.0,Virginia,Stafford,9915,68,24.0,0.0
+51790.0,Virginia,Staunton,2505,66,1.0,0.0
+51800.0,Virginia,Suffolk,7199,173,24.0,0.0
 51181.0,Virginia,Surry,398,9,0.0,0.0
-51183.0,Virginia,Sussex,1116,20,0.0,0.0
+51183.0,Virginia,Sussex,1119,20,3.0,0.0
 51185.0,Virginia,Tazewell,3325,63,0.0,0.0
 90051.0,Virginia,Unassigned,0,0,0.0,0.0
-51810.0,Virginia,Virginia Beach,32207,356,0.0,0.0
-51187.0,Virginia,Warren,2435,51,0.0,0.0
-51191.0,Virginia,Washington,4400,100,0.0,0.0
-51820.0,Virginia,Waynesboro,2201,34,0.0,0.0
-51193.0,Virginia,Westmoreland,1156,22,0.0,0.0
-51830.0,Virginia,Williamsburg,564,11,0.0,0.0
-51840.0,Virginia,Winchester,2572,41,0.0,0.0
-51195.0,Virginia,Wise,2943,92,0.0,0.0
-51197.0,Virginia,Wythe,2156,73,0.0,0.0
-51199.0,Virginia,York,3305,50,0.0,0.0
+51810.0,Virginia,Virginia Beach,32303,358,96.0,2.0
+51187.0,Virginia,Warren,2440,51,5.0,0.0
+51191.0,Virginia,Washington,4403,100,3.0,0.0
+51820.0,Virginia,Waynesboro,2206,34,5.0,0.0
+51193.0,Virginia,Westmoreland,1157,22,1.0,0.0
+51830.0,Virginia,Williamsburg,561,11,-3.0,0.0
+51840.0,Virginia,Winchester,2588,41,16.0,0.0
+51195.0,Virginia,Wise,2944,92,1.0,0.0
+51197.0,Virginia,Wythe,2169,73,13.0,0.0
+51199.0,Virginia,York,3323,50,18.0,0.0
 53001.0,Washington,Adams,1956,22,2.0,0.0
 53003.0,Washington,Asotin,1320,28,9.0,0.0
 53005.0,Washington,Benton,15455,209,28.0,0.0
