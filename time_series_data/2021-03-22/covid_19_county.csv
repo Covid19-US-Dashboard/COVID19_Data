@@ -196,17 +196,17 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5149.0,Arkansas,Yell,3401,63,0.0,0.0
 6001.0,California,Alameda,82680,1369,87.0,0.0
 6003.0,California,Alpine,86,0,0.0,0.0
-6005.0,California,Amador,3506,45,0.0,1.0
-6007.0,California,Butte,11141,185,0.0,0.0
+6005.0,California,Amador,3522,44,3.0,0.0
+6007.0,California,Butte,11211,185,3.0,0.0
 6009.0,California,Calaveras,1972,51,4.0,1.0
 6011.0,California,Colusa,2158,15,2.0,0.0
 6013.0,California,Contra Costa,64695,734,53.0,0.0
 6015.0,California,Del Norte,1103,6,8.0,0.0
 6017.0,California,El Dorado,9374,107,34.0,0.0
 6019.0,California,Fresno,98211,1568,242.0,22.0
-6021.0,California,Glenn,2261,24,0.0,0.0
+6021.0,California,Glenn,2291,17,3.0,0.0
 6023.0,California,Humboldt,3433,36,14.0,1.0
-6025.0,California,Imperial,27122,699,0.0,8.0
+6025.0,California,Imperial,27302,699,35.0,0.0
 6027.0,California,Inyo,1388,37,11.0,0.0
 6029.0,California,Kern,105542,1141,43.0,0.0
 6031.0,California,Kings,22524,238,13.0,0.0
@@ -232,10 +232,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6069.0,California,San Benito,5831,61,0.0,0.0
 6071.0,California,San Bernardino,289846,4004,73.0,0.0
 6073.0,California,San Diego,267917,3494,189.0,0.0
-6075.0,California,San Francisco,34820,456,0.0,0.0
+6075.0,California,San Francisco,35040,462,28.0,2.0
 6077.0,California,San Joaquin,68855,1231,141.0,2.0
 6079.0,California,San Luis Obispo,20260,253,71.0,0.0
-6081.0,California,San Mateo,39837,543,72.0,0.0
+6081.0,California,San Mateo,40024,543,36.0,0.0
 6083.0,California,Santa Barbara,32873,435,14.0,0.0
 6085.0,California,Santa Clara,113641,1907,89.0,6.0
 6087.0,California,Santa Cruz,15225,200,29.0,0.0
@@ -252,7 +252,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6109.0,California,Tuolumne,4014,62,6.0,3.0
 90006.0,California,Unassigned,0,0,0.0,0.0
 6111.0,California,Ventura,79219,950,129.0,7.0
-6113.0,California,Yolo,13131,191,0.0,0.0
+6113.0,California,Yolo,13243,190,8.0,0.0
 6115.0,California,Yuba,5912,42,9.0,0.0
 8001.0,Colorado,Adams,50477,634,14.0,0.0
 8003.0,Colorado,Alamosa,1338,29,1.0,0.0
