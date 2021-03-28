@@ -200,7 +200,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6007.0,California,Butte,11278,191,8.0,3.0
 6009.0,California,Calaveras,1995,51,0.0,0.0
 6011.0,California,Colusa,2164,16,0.0,0.0
-6013.0,California,Contra Costa,64961,761,0.0,4.0
+6013.0,California,Contra Costa,65065,761,104.0,4.0
 6015.0,California,Del Norte,1125,6,0.0,0.0
 6017.0,California,El Dorado,9417,107,0.0,0.0
 6019.0,California,Fresno,98731,1601,129.0,8.0
@@ -208,19 +208,19 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6023.0,California,Humboldt,3448,35,0.0,0.0
 6025.0,California,Imperial,27374,715,22.0,0.0
 6027.0,California,Inyo,1394,37,0.0,0.0
-6029.0,California,Kern,105912,1211,0.0,5.0
+6029.0,California,Kern,105994,1211,82.0,5.0
 6031.0,California,Kings,22578,241,0.0,0.0
 6033.0,California,Lake,3314,43,2.0,0.0
 6035.0,California,Lassen,5649,24,0.0,0.0
-6037.0,California,Los Angeles,1217707,23080,591.0,24.0
+6037.0,California,Los Angeles,1217775,23080,659.0,24.0
 6039.0,California,Madera,15952,231,15.0,0.0
-6041.0,California,Marin,13635,221,0.0,2.0
+6041.0,California,Marin,13646,221,11.0,2.0
 6043.0,California,Mariposa,408,7,0.0,0.0
 6045.0,California,Mendocino,3935,46,0.0,0.0
 6047.0,California,Merced,30419,434,0.0,0.0
 6049.0,California,Modoc,472,4,0.0,0.0
 6051.0,California,Mono,1261,4,0.0,0.0
-6053.0,California,Monterey,42868,340,0.0,0.0
+6053.0,California,Monterey,42890,340,22.0,0.0
 6055.0,California,Napa,9349,78,13.0,0.0
 6057.0,California,Nevada,4222,83,3.0,-1.0
 6059.0,California,Orange,265653,4711,117.0,27.0
@@ -236,17 +236,17 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6077.0,California,San Joaquin,69448,1250,0.0,0.0
 6079.0,California,San Luis Obispo,20402,255,0.0,0.0
 6081.0,California,San Mateo,40199,547,52.0,0.0
-6083.0,California,Santa Barbara,33020,439,0.0,0.0
+6083.0,California,Santa Barbara,33045,439,25.0,0.0
 6085.0,California,Santa Clara,114183,1934,168.0,0.0
 6087.0,California,Santa Cruz,15306,201,0.0,0.0
 6089.0,California,Shasta,11333,202,0.0,0.0
 6091.0,California,Sierra,104,0,0.0,0.0
 6093.0,California,Siskiyou,1870,15,0.0,0.0
 6095.0,California,Solano,31009,205,0.0,12.0
-6097.0,California,Sonoma,29122,310,0.0,0.0
+6097.0,California,Sonoma,29169,310,47.0,0.0
 6099.0,California,Stanislaus,58602,992,0.0,0.0
 6101.0,California,Sutter,9110,104,0.0,0.0
-6103.0,California,Tehama,5255,54,0.0,0.0
+6103.0,California,Tehama,5260,54,5.0,0.0
 6105.0,California,Trinity,387,5,0.0,0.0
 6107.0,California,Tulare,48960,813,0.0,2.0
 6109.0,California,Tuolumne,4024,62,0.0,0.0
