@@ -196,26 +196,26 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5145.0,Arkansas,White,7833,116,1.0,0.0
 5147.0,Arkansas,Woodruff,636,12,0.0,0.0
 5149.0,Arkansas,Yell,3409,64,1.0,0.0
-6001.0,California,Alameda,83951,1426,377.0,1.0
+6001.0,California,Alameda,83951,1426,90.0,1.0
 6003.0,California,Alpine,88,0,0.0,0.0
-6005.0,California,Amador,3582,45,24.0,0.0
-6007.0,California,Butte,11375,193,47.0,0.0
-6009.0,California,Calaveras,2023,51,5.0,0.0
+6005.0,California,Amador,3582,45,5.0,0.0
+6007.0,California,Butte,11375,193,16.0,0.0
+6009.0,California,Calaveras,2023,51,4.0,0.0
 6011.0,California,Colusa,2170,16,5.0,0.0
-6013.0,California,Contra Costa,65718,774,159.0,3.0
+6013.0,California,Contra Costa,65718,774,159.0,0.0
 6015.0,California,Del Norte,1229,6,16.0,0.0
 6017.0,California,El Dorado,9514,108,26.0,0.0
-6019.0,California,Fresno,99702,1622,385.0,6.0
-6021.0,California,Glenn,2335,25,13.0,0.0
+6019.0,California,Fresno,99702,1622,100.0,0.0
+6021.0,California,Glenn,2335,25,1.0,0.0
 6023.0,California,Humboldt,3501,36,9.0,0.0
-6025.0,California,Imperial,27588,715,68.0,0.0
+6025.0,California,Imperial,27588,715,16.0,0.0
 6027.0,California,Inyo,1402,38,1.0,0.0
 6029.0,California,Kern,106480,1291,151.0,14.0
 6031.0,California,Kings,22669,241,10.0,0.0
-6033.0,California,Lake,3355,43,18.0,0.0
+6033.0,California,Lake,3355,43,5.0,0.0
 6035.0,California,Lassen,5656,24,4.0,0.0
-6037.0,California,Los Angeles,1222479,23301,1586.0,65.0
-6039.0,California,Madera,16052,234,29.0,0.0
+6037.0,California,Los Angeles,1222479,23301,1586.0,0.0
+6039.0,California,Madera,16052,234,1.0,0.0
 6041.0,California,Marin,13730,221,17.0,0.0
 6043.0,California,Mariposa,411,7,1.0,0.0
 6045.0,California,Mendocino,3958,46,9.0,0.0
@@ -223,38 +223,38 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6049.0,California,Modoc,479,4,5.0,0.0
 6051.0,California,Mono,1268,4,0.0,0.0
 6053.0,California,Monterey,43002,342,23.0,0.0
-6055.0,California,Napa,9499,78,46.0,0.0
-6057.0,California,Nevada,4352,74,36.0,0.0
+6055.0,California,Napa,9499,78,26.0,0.0
+6057.0,California,Nevada,4352,74,29.0,0.0
 6059.0,California,Orange,267001,4772,537.0,11.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,21188,277,93.0,1.0
 6063.0,California,Plumas,686,6,1.0,0.0
 6065.0,California,Riverside,295426,4389,690.0,27.0
-6067.0,California,Sacramento,98848,1617,360.0,4.0
-6069.0,California,San Benito,5901,62,22.0,1.0
-6071.0,California,San Bernardino,291727,4423,528.0,19.0
-6073.0,California,San Diego,271654,3583,619.0,15.0
-6075.0,California,San Francisco,35525,488,139.0,0.0
+6067.0,California,Sacramento,98848,1617,188.0,4.0
+6069.0,California,San Benito,5901,62,8.0,1.0
+6071.0,California,San Bernardino,291727,4423,528.0,1.0
+6073.0,California,San Diego,271654,3583,319.0,12.0
+6075.0,California,San Francisco,35525,488,37.0,-1.0
 6077.0,California,San Joaquin,70245,1313,128.0,3.0
 6079.0,California,San Luis Obispo,20606,256,59.0,0.0
-6081.0,California,San Mateo,40595,553,53.0,0.0
+6081.0,California,San Mateo,40595,553,35.0,0.0
 6083.0,California,Santa Barbara,33358,443,88.0,0.0
-6085.0,California,Santa Clara,115171,1961,319.0,12.0
+6085.0,California,Santa Clara,115171,1961,306.0,12.0
 6087.0,California,Santa Cruz,15363,201,0.0,-1.0
-6089.0,California,Shasta,11463,208,64.0,0.0
+6089.0,California,Shasta,11463,208,45.0,0.0
 6091.0,California,Sierra,106,0,0.0,0.0
 6093.0,California,Siskiyou,1888,16,3.0,0.0
 6095.0,California,Solano,31401,237,100.0,0.0
-6097.0,California,Sonoma,29402,311,92.0,0.0
+6097.0,California,Sonoma,29402,311,87.0,0.0
 6099.0,California,Stanislaus,59460,1004,189.0,1.0
 6101.0,California,Sutter,9197,106,22.0,0.0
 6103.0,California,Tehama,5324,54,14.0,0.0
 6105.0,California,Trinity,393,5,1.0,0.0
-6107.0,California,Tulare,49129,818,29.0,1.0
+6107.0,California,Tulare,49129,818,29.0,0.0
 6109.0,California,Tuolumne,4044,62,1.0,0.0
 90006.0,California,Unassigned,0,0,0.0,0.0
 6111.0,California,Ventura,79820,986,46.0,0.0
-6113.0,California,Yolo,13425,198,83.0,0.0
+6113.0,California,Yolo,13425,198,11.0,0.0
 6115.0,California,Yuba,6041,43,20.0,-1.0
 8001.0,Colorado,Adams,51997,641,87.0,0.0
 8003.0,Colorado,Alamosa,1351,29,-1.0,0.0
@@ -2401,84 +2401,84 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 42133.0,Pennsylvania,York,40198,752,80.0,0.0
 72001.0,Puerto Rico,Adjuntas,408,0,0.0,0.0
 72003.0,Puerto Rico,Aguada,1059,0,0.0,0.0
-72005.0,Puerto Rico,Aguadilla,1260,0,0.0,0.0
-72007.0,Puerto Rico,Aguas Buenas,895,0,0.0,0.0
-72009.0,Puerto Rico,Aibonito,492,0,0.0,0.0
+72005.0,Puerto Rico,Aguadilla,1261,0,1.0,0.0
+72007.0,Puerto Rico,Aguas Buenas,896,0,1.0,0.0
+72009.0,Puerto Rico,Aibonito,496,0,4.0,0.0
 72011.0,Puerto Rico,Anasco,665,0,0.0,0.0
 72013.0,Puerto Rico,Arecibo,2483,0,0.0,0.0
 72015.0,Puerto Rico,Arroyo,209,0,0.0,0.0
 72017.0,Puerto Rico,Barceloneta,608,0,0.0,0.0
-72019.0,Puerto Rico,Barranquitas,976,0,0.0,0.0
-72021.0,Puerto Rico,Bayamon,8383,0,0.0,0.0
-72023.0,Puerto Rico,Cabo Rojo,610,0,0.0,0.0
-72025.0,Puerto Rico,Caguas,5013,0,0.0,0.0
-72027.0,Puerto Rico,Camuy,984,0,0.0,0.0
+72019.0,Puerto Rico,Barranquitas,978,0,2.0,0.0
+72021.0,Puerto Rico,Bayamon,8395,0,12.0,0.0
+72023.0,Puerto Rico,Cabo Rojo,616,0,6.0,0.0
+72025.0,Puerto Rico,Caguas,5022,0,9.0,0.0
+72027.0,Puerto Rico,Camuy,989,0,5.0,0.0
 72029.0,Puerto Rico,Canovanas,1475,0,0.0,0.0
-72031.0,Puerto Rico,Carolina,6881,0,0.0,0.0
-72033.0,Puerto Rico,Catano,963,0,0.0,0.0
-72035.0,Puerto Rico,Cayey,1053,0,0.0,0.0
+72031.0,Puerto Rico,Carolina,6893,0,12.0,0.0
+72033.0,Puerto Rico,Catano,964,0,1.0,0.0
+72035.0,Puerto Rico,Cayey,1061,0,8.0,0.0
 72037.0,Puerto Rico,Ceiba,286,0,0.0,0.0
 72039.0,Puerto Rico,Ciales,640,0,0.0,0.0
-72041.0,Puerto Rico,Cidra,1063,0,0.0,0.0
+72041.0,Puerto Rico,Cidra,1066,0,3.0,0.0
 72043.0,Puerto Rico,Coamo,713,0,0.0,0.0
-72045.0,Puerto Rico,Comerio,566,0,0.0,0.0
+72045.0,Puerto Rico,Comerio,570,0,4.0,0.0
 72047.0,Puerto Rico,Corozal,1188,0,0.0,0.0
 72049.0,Puerto Rico,Culebra,24,0,0.0,0.0
-72051.0,Puerto Rico,Dorado,1631,0,0.0,0.0
-72053.0,Puerto Rico,Fajardo,869,0,0.0,0.0
+72051.0,Puerto Rico,Dorado,1634,0,3.0,0.0
+72053.0,Puerto Rico,Fajardo,872,0,3.0,0.0
 72054.0,Puerto Rico,Florida,408,0,0.0,0.0
 72055.0,Puerto Rico,Guanica,153,0,0.0,0.0
-72057.0,Puerto Rico,Guayama,645,0,0.0,0.0
+72057.0,Puerto Rico,Guayama,650,0,5.0,0.0
 72059.0,Puerto Rico,Guayanilla,276,0,0.0,0.0
-72061.0,Puerto Rico,Guaynabo,3541,0,0.0,0.0
-72063.0,Puerto Rico,Gurabo,1667,0,0.0,0.0
-72065.0,Puerto Rico,Hatillo,950,0,0.0,0.0
+72061.0,Puerto Rico,Guaynabo,3546,0,5.0,0.0
+72063.0,Puerto Rico,Gurabo,1668,0,1.0,0.0
+72065.0,Puerto Rico,Hatillo,952,0,2.0,0.0
 72067.0,Puerto Rico,Hormigueros,328,0,0.0,0.0
-72069.0,Puerto Rico,Humacao,1374,0,0.0,0.0
-72071.0,Puerto Rico,Isabela,1064,0,0.0,0.0
+72069.0,Puerto Rico,Humacao,1383,0,9.0,0.0
+72071.0,Puerto Rico,Isabela,1066,0,2.0,0.0
 72073.0,Puerto Rico,Jayuya,221,0,0.0,0.0
-72075.0,Puerto Rico,Juana Diaz,931,0,0.0,0.0
-72077.0,Puerto Rico,Juncos,1687,0,0.0,0.0
-72079.0,Puerto Rico,Lajas,276,0,0.0,0.0
-72081.0,Puerto Rico,Lares,633,0,0.0,0.0
+72075.0,Puerto Rico,Juana Diaz,932,0,1.0,0.0
+72077.0,Puerto Rico,Juncos,1690,0,3.0,0.0
+72079.0,Puerto Rico,Lajas,279,0,3.0,0.0
+72081.0,Puerto Rico,Lares,638,0,5.0,0.0
 72083.0,Puerto Rico,Las Marias,144,0,0.0,0.0
-72085.0,Puerto Rico,Las Piedras,1252,0,0.0,0.0
+72085.0,Puerto Rico,Las Piedras,1259,0,7.0,0.0
 72087.0,Puerto Rico,Loiza,907,0,0.0,0.0
-72089.0,Puerto Rico,Luquillo,512,0,0.0,0.0
+72089.0,Puerto Rico,Luquillo,513,0,1.0,0.0
 72091.0,Puerto Rico,Manati,1136,0,0.0,0.0
 72093.0,Puerto Rico,Maricao,73,0,0.0,0.0
 72095.0,Puerto Rico,Maunabo,223,0,0.0,0.0
-72097.0,Puerto Rico,Mayaguez,1501,0,0.0,0.0
-72099.0,Puerto Rico,Moca,1176,0,0.0,0.0
-72101.0,Puerto Rico,Morovis,1150,0,0.0,0.0
-72103.0,Puerto Rico,Naguabo,719,0,0.0,0.0
-72105.0,Puerto Rico,Naranjito,1206,0,0.0,0.0
-72107.0,Puerto Rico,Orocovis,707,0,0.0,0.0
-72888.0,Puerto Rico,Out of PR,250,0,0.0,0.0
+72097.0,Puerto Rico,Mayaguez,1502,0,1.0,0.0
+72099.0,Puerto Rico,Moca,1175,0,-1.0,0.0
+72101.0,Puerto Rico,Morovis,1151,0,1.0,0.0
+72103.0,Puerto Rico,Naguabo,720,0,1.0,0.0
+72105.0,Puerto Rico,Naranjito,1209,0,3.0,0.0
+72107.0,Puerto Rico,Orocovis,710,0,3.0,0.0
+72888.0,Puerto Rico,Out of PR,251,0,1.0,0.0
 72109.0,Puerto Rico,Patillas,249,0,0.0,0.0
 72111.0,Puerto Rico,Penuelas,457,0,0.0,0.0
-72113.0,Puerto Rico,Ponce,2642,0,0.0,0.0
+72113.0,Puerto Rico,Ponce,2645,0,3.0,0.0
 72115.0,Puerto Rico,Quebradillas,660,0,0.0,0.0
 72117.0,Puerto Rico,Rincon,359,0,0.0,0.0
-72119.0,Puerto Rico,Rio Grande,1532,0,0.0,0.0
+72119.0,Puerto Rico,Rio Grande,1534,0,2.0,0.0
 72121.0,Puerto Rico,Sabana Grande,286,0,0.0,0.0
-72123.0,Puerto Rico,Salinas,603,0,0.0,0.0
+72123.0,Puerto Rico,Salinas,605,0,2.0,0.0
 72125.0,Puerto Rico,San German,426,0,0.0,0.0
-72127.0,Puerto Rico,San Juan,14871,0,0.0,0.0
-72129.0,Puerto Rico,San Lorenzo,1379,0,0.0,0.0
-72131.0,Puerto Rico,San Sebastian,1090,0,0.0,0.0
-72133.0,Puerto Rico,Santa Isabel,365,0,0.0,0.0
-72135.0,Puerto Rico,Toa Alta,3157,0,0.0,0.0
-72137.0,Puerto Rico,Toa Baja,3067,0,0.0,0.0
-72139.0,Puerto Rico,Trujillo Alto,2396,0,0.0,0.0
-72999.0,Puerto Rico,Unassigned,3165,2131,0.0,0.0
-72141.0,Puerto Rico,Utuado,741,0,0.0,0.0
+72127.0,Puerto Rico,San Juan,14896,0,25.0,0.0
+72129.0,Puerto Rico,San Lorenzo,1380,0,1.0,0.0
+72131.0,Puerto Rico,San Sebastian,1095,0,5.0,0.0
+72133.0,Puerto Rico,Santa Isabel,366,0,1.0,0.0
+72135.0,Puerto Rico,Toa Alta,3164,0,7.0,0.0
+72137.0,Puerto Rico,Toa Baja,3072,0,5.0,0.0
+72139.0,Puerto Rico,Trujillo Alto,2400,0,4.0,0.0
+72999.0,Puerto Rico,Unassigned,3164,2136,-1.0,5.0
+72141.0,Puerto Rico,Utuado,744,0,3.0,0.0
 72143.0,Puerto Rico,Vega Alta,1372,0,0.0,0.0
-72145.0,Puerto Rico,Vega Baja,2312,0,0.0,0.0
+72145.0,Puerto Rico,Vega Baja,2315,0,3.0,0.0
 72147.0,Puerto Rico,Vieques,119,0,0.0,0.0
 72149.0,Puerto Rico,Villalba,665,0,0.0,0.0
 72151.0,Puerto Rico,Yabucoa,800,0,0.0,0.0
-72153.0,Puerto Rico,Yauco,613,0,0.0,0.0
+72153.0,Puerto Rico,Yauco,615,0,2.0,0.0
 44001.0,Rhode Island,Bristol,4591,140,0.0,0.0
 44003.0,Rhode Island,Kent,16664,343,0.0,0.0
 44005.0,Rhode Island,Newport,5785,39,0.0,0.0

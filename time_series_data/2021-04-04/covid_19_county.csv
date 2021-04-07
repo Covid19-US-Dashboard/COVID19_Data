@@ -196,26 +196,26 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5145.0,Arkansas,White,7832,116,5.0,0.0
 5147.0,Arkansas,Woodruff,636,12,0.0,0.0
 5149.0,Arkansas,Yell,3408,64,0.0,0.0
-6001.0,California,Alameda,83574,1425,0.0,0.0
+6001.0,California,Alameda,83861,1425,85.0,0.0
 6003.0,California,Alpine,88,0,0.0,0.0
-6005.0,California,Amador,3558,45,0.0,0.0
-6007.0,California,Butte,11328,193,0.0,0.0
-6009.0,California,Calaveras,2018,51,0.0,0.0
+6005.0,California,Amador,3577,45,4.0,0.0
+6007.0,California,Butte,11359,193,9.0,0.0
+6009.0,California,Calaveras,2019,51,1.0,0.0
 6011.0,California,Colusa,2165,16,0.0,0.0
-6013.0,California,Contra Costa,65559,771,0.0,0.0
+6013.0,California,Contra Costa,65559,774,0.0,0.0
 6015.0,California,Del Norte,1213,6,0.0,0.0
 6017.0,California,El Dorado,9488,108,0.0,0.0
-6019.0,California,Fresno,99317,1616,0.0,0.0
-6021.0,California,Glenn,2322,25,0.0,0.0
+6019.0,California,Fresno,99602,1622,51.0,2.0
+6021.0,California,Glenn,2334,25,3.0,0.0
 6023.0,California,Humboldt,3492,36,0.0,0.0
-6025.0,California,Imperial,27520,715,0.0,0.0
+6025.0,California,Imperial,27572,715,19.0,0.0
 6027.0,California,Inyo,1401,38,0.0,0.0
 6029.0,California,Kern,106329,1277,0.0,0.0
 6031.0,California,Kings,22659,241,0.0,0.0
-6033.0,California,Lake,3337,43,0.0,0.0
+6033.0,California,Lake,3350,43,2.0,0.0
 6035.0,California,Lassen,5652,24,0.0,0.0
-6037.0,California,Los Angeles,1220893,23236,0.0,0.0
-6039.0,California,Madera,16023,234,0.0,0.0
+6037.0,California,Los Angeles,1220893,23301,0.0,37.0
+6039.0,California,Madera,16051,234,15.0,0.0
 6041.0,California,Marin,13713,221,0.0,0.0
 6043.0,California,Mariposa,410,7,0.0,0.0
 6045.0,California,Mendocino,3949,46,0.0,0.0
@@ -223,38 +223,38 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6049.0,California,Modoc,474,4,0.0,0.0
 6051.0,California,Mono,1268,4,0.0,0.0
 6053.0,California,Monterey,42979,342,0.0,0.0
-6055.0,California,Napa,9453,78,0.0,0.0
-6057.0,California,Nevada,4316,74,0.0,0.0
+6055.0,California,Napa,9473,78,20.0,0.0
+6057.0,California,Nevada,4323,74,0.0,0.0
 6059.0,California,Orange,266464,4761,0.0,0.0
 80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,21095,276,0.0,0.0
 6063.0,California,Plumas,685,6,0.0,0.0
 6065.0,California,Riverside,294736,4362,0.0,0.0
-6067.0,California,Sacramento,98488,1613,0.0,0.0
-6069.0,California,San Benito,5879,61,0.0,0.0
-6071.0,California,San Bernardino,291199,4404,0.0,0.0
-6073.0,California,San Diego,271035,3568,0.0,0.0
-6075.0,California,San Francisco,35386,488,0.0,0.0
+6067.0,California,Sacramento,98660,1613,12.0,0.0
+6069.0,California,San Benito,5893,61,5.0,0.0
+6071.0,California,San Bernardino,291199,4422,0.0,18.0
+6073.0,California,San Diego,271335,3571,299.0,3.0
+6075.0,California,San Francisco,35488,489,37.0,1.0
 6077.0,California,San Joaquin,70117,1310,0.0,0.0
 6079.0,California,San Luis Obispo,20547,256,0.0,0.0
-6081.0,California,San Mateo,40542,553,0.0,0.0
+6081.0,California,San Mateo,40560,553,18.0,0.0
 6083.0,California,Santa Barbara,33270,443,0.0,0.0
-6085.0,California,Santa Clara,114852,1949,0.0,0.0
+6085.0,California,Santa Clara,114865,1949,13.0,0.0
 6087.0,California,Santa Cruz,15363,202,0.0,0.0
-6089.0,California,Shasta,11399,208,0.0,0.0
+6089.0,California,Shasta,11418,208,19.0,0.0
 6091.0,California,Sierra,106,0,0.0,0.0
 6093.0,California,Siskiyou,1885,16,0.0,0.0
 6095.0,California,Solano,31301,237,0.0,0.0
-6097.0,California,Sonoma,29310,311,0.0,0.0
+6097.0,California,Sonoma,29315,311,5.0,0.0
 6099.0,California,Stanislaus,59271,1003,0.0,0.0
 6101.0,California,Sutter,9175,106,0.0,0.0
 6103.0,California,Tehama,5310,54,0.0,0.0
 6105.0,California,Trinity,392,5,0.0,0.0
-6107.0,California,Tulare,49100,817,0.0,0.0
+6107.0,California,Tulare,49100,818,0.0,0.0
 6109.0,California,Tuolumne,4043,62,0.0,0.0
 90006.0,California,Unassigned,0,0,0.0,0.0
 6111.0,California,Ventura,79774,986,0.0,0.0
-6113.0,California,Yolo,13342,198,0.0,0.0
+6113.0,California,Yolo,13414,198,33.0,0.0
 6115.0,California,Yuba,6021,44,0.0,0.0
 8001.0,Colorado,Adams,51910,641,113.0,0.0
 8003.0,Colorado,Alamosa,1352,29,3.0,0.0
