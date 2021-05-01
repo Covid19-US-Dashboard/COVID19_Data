@@ -74,6 +74,8 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 2050.0,Alaska,Bethel,1,0,0.0,0.0
 2060.0,Alaska,Bristol Bay,0,0,0.0,0.0
 2164.0,Alaska,Bristol Bay plus Lake and Peninsula,0,0,0.0,0.0
+2063.0,Alaska,Chugach,1,0,0.0,0.0
+2066.0,Alaska,Copper River,0,0,0.0,0.0
 2068.0,Alaska,Denali,0,0,0.0,0.0
 2070.0,Alaska,Dillingham,0,0,0.0,0.0
 2090.0,Alaska,Fairbanks North Star,86,2,1.0,0.0
@@ -95,7 +97,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 2230.0,Alaska,Skagway,0,0,0.0,0.0
 2240.0,Alaska,Southeast Fairbanks,3,0,0.0,0.0
 90002.0,Alaska,Unassigned,0,0,0.0,0.0
-2261.0,Alaska,Valdez-Cordova,1,0,0.0,0.0
+2261.0,Alaska,Valdez-Cordova,0,0,0.0,0.0
 2275.0,Alaska,Wrangell,0,0,0.0,0.0
 2282.0,Alaska,Yakutat,0,0,0.0,0.0
 2290.0,Alaska,Yukon-Koyukuk,1,0,0.0,0.0
@@ -230,7 +232,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6065.0,California,Riverside,5189,217,197.0,13.0
 6067.0,California,Sacramento,1173,50,6.0,0.0
 6069.0,California,San Benito,56,2,1.0,0.0
-6071.0,California,San Bernardino,3015,115,113.0,1.0
+6071.0,California,San Bernardino,3015,121,113.0,0.0
 6073.0,California,San Diego,5065,175,289.0,0.0
 6075.0,California,San Francisco,1954,35,11.0,1.0
 6077.0,California,San Joaquin,621,29,9.0,0.0
@@ -2158,7 +2160,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39069.0,Ohio,Henry,9,1,1.0,0.0
 39071.0,Ohio,Highland,12,1,0.0,0.0
 39073.0,Ohio,Hocking,22,2,2.0,0.0
-39075.0,Ohio,Holmes,8,2,0.0,0.0
+39075.0,Ohio,Holmes,8,1,0.0,0.0
 39077.0,Ohio,Huron,38,3,0.0,0.0
 39079.0,Ohio,Jackson,8,1,0.0,0.0
 39081.0,Ohio,Jefferson,56,3,2.0,0.0

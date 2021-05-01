@@ -74,6 +74,8 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 2050.0,Alaska,Bethel,343,1,6.0,0.0
 2060.0,Alaska,Bristol Bay,0,0,0.0,0.0
 2164.0,Alaska,Bristol Bay plus Lake and Peninsula,103,0,0.0,0.0
+2063.0,Alaska,Chugach,109,1,1.0,0.0
+2066.0,Alaska,Copper River,51,0,0.0,0.0
 2068.0,Alaska,Denali,24,0,0.0,0.0
 2070.0,Alaska,Dillingham,46,0,0.0,0.0
 2090.0,Alaska,Fairbanks North Star,1930,13,23.0,0.0
@@ -95,7 +97,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 2230.0,Alaska,Skagway,5,0,0.0,0.0
 2240.0,Alaska,Southeast Fairbanks,65,0,0.0,0.0
 90002.0,Alaska,Unassigned,58,0,3.0,0.0
-2261.0,Alaska,Valdez-Cordova,155,1,0.0,0.0
+2261.0,Alaska,Valdez-Cordova,0,0,0.0,0.0
 2275.0,Alaska,Wrangell,19,0,0.0,0.0
 2282.0,Alaska,Yakutat,35,0,0.0,0.0
 2290.0,Alaska,Yukon-Koyukuk,107,2,1.0,0.0
@@ -208,7 +210,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6023.0,California,Humboldt,561,9,0.0,0.0
 6025.0,California,Imperial,12700,336,32.0,0.0
 6027.0,California,Inyo,227,15,7.0,0.0
-6029.0,California,Kern,33669,416,39.0,1.0
+6029.0,California,Kern,33775,416,106.0,0.0
 6031.0,California,Kings,8201,83,15.0,0.0
 6033.0,California,Lake,679,15,1.0,0.0
 6035.0,California,Lassen,764,1,0.0,0.0
@@ -230,7 +232,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6065.0,California,Riverside,65757,1279,371.0,0.0
 6067.0,California,Sacramento,25094,482,137.0,2.0
 6069.0,California,San Benito,1432,15,13.0,0.0
-6071.0,California,San Bernardino,61726,1070,176.0,0.0
+6071.0,California,San Bernardino,61726,1149,176.0,8.0
 6073.0,California,San Diego,53928,867,430.0,1.0
 6075.0,California,San Francisco,12032,140,32.0,2.0
 6077.0,California,San Joaquin,21528,488,55.0,0.0
@@ -2127,7 +2129,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39007.0,Ohio,Ashtabula,735,39,9.0,0.0
 39009.0,Ohio,Athens,1235,4,30.0,0.0
 39011.0,Ohio,Auglaize,1023,15,17.0,0.0
-39013.0,Ohio,Belmont,789,24,1.0,0.0
+39013.0,Ohio,Belmont,789,25,1.0,0.0
 39015.0,Ohio,Brown,388,5,9.0,0.0
 39017.0,Ohio,Butler,8401,141,125.0,0.0
 39019.0,Ohio,Carroll,215,8,15.0,0.0
@@ -2138,14 +2140,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39029.0,Ohio,Columbiana,2133,92,5.0,0.0
 39031.0,Ohio,Coshocton,324,10,3.0,0.0
 39033.0,Ohio,Crawford,468,15,16.0,1.0
-39035.0,Ohio,Cuyahoga,19906,636,200.0,1.0
+39035.0,Ohio,Cuyahoga,19906,642,200.0,1.0
 39037.0,Ohio,Darke,1155,44,11.0,1.0
 39039.0,Ohio,Defiance,466,10,6.0,0.0
 39041.0,Ohio,Delaware,2906,25,34.0,0.0
 39043.0,Ohio,Erie,1169,39,14.0,0.0
 39045.0,Ohio,Fairfield,2686,52,42.0,3.0
 39047.0,Ohio,Fayette,452,7,3.0,1.0
-39049.0,Ohio,Franklin,31703,559,237.0,2.0
+39049.0,Ohio,Franklin,31703,560,237.0,2.0
 39051.0,Ohio,Fulton,545,18,8.0,0.0
 39053.0,Ohio,Gallia,292,10,1.0,0.0
 39055.0,Ohio,Geauga,869,48,10.0,0.0
@@ -2158,7 +2160,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39069.0,Ohio,Henry,488,20,15.0,0.0
 39071.0,Ohio,Highland,444,10,14.0,0.0
 39073.0,Ohio,Hocking,199,11,2.0,0.0
-39075.0,Ohio,Holmes,633,13,16.0,0.0
+39075.0,Ohio,Holmes,633,12,16.0,0.0
 39077.0,Ohio,Huron,716,14,7.0,0.0
 39079.0,Ohio,Jackson,472,7,13.0,0.0
 39081.0,Ohio,Jefferson,477,7,8.0,0.0
@@ -2168,15 +2170,15 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39089.0,Ohio,Licking,2623,69,44.0,0.0
 39091.0,Ohio,Logan,435,5,12.0,0.0
 39093.0,Ohio,Lorain,2754,92,26.0,0.0
-39095.0,Ohio,Lucas,8364,357,79.0,2.0
+39095.0,Ohio,Lucas,8364,358,79.0,2.0
 39097.0,Ohio,Madison,1063,14,9.0,0.0
-39099.0,Ohio,Mahoning,3739,268,30.0,1.0
+39099.0,Ohio,Mahoning,3739,269,30.0,1.0
 39101.0,Ohio,Marion,3412,39,24.0,0.0
 39103.0,Ohio,Medina,1889,52,33.0,0.0
 39105.0,Ohio,Meigs,210,13,0.0,0.0
 39107.0,Ohio,Mercer,1547,27,26.0,1.0
 39109.0,Ohio,Miami,2028,58,29.0,1.0
-39111.0,Ohio,Monroe,163,15,2.0,0.0
+39111.0,Ohio,Monroe,163,16,2.0,0.0
 39113.0,Ohio,Montgomery,10546,211,169.0,3.0
 39115.0,Ohio,Morgan,80,0,2.0,0.0
 39117.0,Ohio,Morrow,356,3,12.0,0.0
@@ -2203,7 +2205,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39157.0,Ohio,Tuscarawas,1308,29,18.0,1.0
 90039.0,Ohio,Unassigned,0,0,0.0,0.0
 39159.0,Ohio,Union,770,6,12.0,0.0
-39161.0,Ohio,Van Wert,268,5,5.0,0.0
+39161.0,Ohio,Van Wert,268,6,5.0,0.0
 39163.0,Ohio,Vinton,104,4,8.0,0.0
 39165.0,Ohio,Warren,4284,67,84.0,1.0
 39167.0,Ohio,Washington,355,22,4.0,0.0
