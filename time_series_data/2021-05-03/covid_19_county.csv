@@ -974,7 +974,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20093.0,Kansas,Kearny,568,10,1.0,0.0
 20095.0,Kansas,Kingman,754,15,2.0,0.0
 20097.0,Kansas,Kiowa,239,4,1.0,0.0
-20099.0,Kansas,Labette,2733,10,-1.0,0.0
+20099.0,Kansas,Labette,2733,48,-1.0,0.0
 20101.0,Kansas,Lane,126,7,0.0,0.0
 20103.0,Kansas,Leavenworth,7200,91,12.0,0.0
 20105.0,Kansas,Lincoln,263,5,0.0,0.0
@@ -1866,41 +1866,41 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 90034.0,New Jersey,Unassigned,856,0,4.0,0.0
 34039.0,New Jersey,Union,70453,1930,54.0,0.0
 34041.0,New Jersey,Warren,9694,234,10.0,0.0
-35001.0,New Mexico,Bernalillo,56899,929,0.0,0.0
+35001.0,New Mexico,Bernalillo,57121,931,222.0,2.0
 35003.0,New Mexico,Catron,92,5,0.0,0.0
-35005.0,New Mexico,Chaves,8917,170,0.0,0.0
-35006.0,New Mexico,Cibola,2861,110,0.0,0.0
-35007.0,New Mexico,Colfax,750,46,0.0,0.0
-35009.0,New Mexico,Curry,5109,76,0.0,0.0
+35005.0,New Mexico,Chaves,8928,170,11.0,0.0
+35006.0,New Mexico,Cibola,2862,110,1.0,0.0
+35007.0,New Mexico,Colfax,754,47,4.0,1.0
+35009.0,New Mexico,Curry,5116,76,7.0,0.0
 35011.0,New Mexico,De Baca,146,1,0.0,0.0
-35013.0,New Mexico,Dona Ana,24589,448,0.0,0.0
-35015.0,New Mexico,Eddy,6801,129,0.0,0.0
-35017.0,New Mexico,Grant,1696,36,0.0,0.0
-35019.0,New Mexico,Guadalupe,378,9,0.0,0.0
+35013.0,New Mexico,Dona Ana,24634,448,45.0,0.0
+35015.0,New Mexico,Eddy,6817,129,16.0,0.0
+35017.0,New Mexico,Grant,1701,36,5.0,0.0
+35019.0,New Mexico,Guadalupe,380,9,2.0,0.0
 35021.0,New Mexico,Harding,10,0,0.0,0.0
 35023.0,New Mexico,Hidalgo,361,9,0.0,0.0
-35025.0,New Mexico,Lea,8272,163,0.0,0.0
-35027.0,New Mexico,Lincoln,1662,19,0.0,0.0
-35028.0,New Mexico,Los Alamos,518,6,0.0,0.0
-35029.0,New Mexico,Luna,3308,85,0.0,0.0
-35031.0,New Mexico,McKinley,12231,465,0.0,0.0
+35025.0,New Mexico,Lea,8270,164,-2.0,1.0
+35027.0,New Mexico,Lincoln,1669,19,7.0,0.0
+35028.0,New Mexico,Los Alamos,519,6,1.0,0.0
+35029.0,New Mexico,Luna,3316,85,8.0,0.0
+35031.0,New Mexico,McKinley,12238,465,7.0,0.0
 35033.0,New Mexico,Mora,170,6,0.0,0.0
-35035.0,New Mexico,Otero,3791,75,0.0,0.0
+35035.0,New Mexico,Otero,3829,75,38.0,0.0
 80035.0,New Mexico,Out of NM,0,0,0.0,0.0
-35037.0,New Mexico,Quay,452,8,0.0,0.0
-35039.0,New Mexico,Rio Arriba,3583,75,0.0,0.0
-35041.0,New Mexico,Roosevelt,1894,55,0.0,0.0
-35045.0,New Mexico,San Juan,14514,468,0.0,0.0
-35047.0,New Mexico,San Miguel,1342,17,0.0,0.0
-35043.0,New Mexico,Sandoval,11856,228,0.0,0.0
-35049.0,New Mexico,Santa Fe,10103,145,0.0,0.0
-35051.0,New Mexico,Sierra,746,49,0.0,0.0
-35053.0,New Mexico,Socorro,1309,56,0.0,0.0
-35055.0,New Mexico,Taos,1656,51,0.0,0.0
+35037.0,New Mexico,Quay,459,8,7.0,0.0
+35039.0,New Mexico,Rio Arriba,3592,76,9.0,1.0
+35041.0,New Mexico,Roosevelt,1921,55,27.0,0.0
+35045.0,New Mexico,San Juan,14625,468,111.0,0.0
+35047.0,New Mexico,San Miguel,1346,17,4.0,0.0
+35043.0,New Mexico,Sandoval,11892,228,36.0,0.0
+35049.0,New Mexico,Santa Fe,10133,145,30.0,0.0
+35051.0,New Mexico,Sierra,749,49,3.0,0.0
+35053.0,New Mexico,Socorro,1310,56,1.0,0.0
+35055.0,New Mexico,Taos,1659,51,3.0,0.0
 35057.0,New Mexico,Torrance,720,13,0.0,0.0
-90035.0,New Mexico,Unassigned,4115,0,0.0,0.0
+90035.0,New Mexico,Unassigned,4114,0,-1.0,0.0
 35059.0,New Mexico,Union,250,9,0.0,0.0
-35061.0,New Mexico,Valencia,6632,106,0.0,0.0
+35061.0,New Mexico,Valencia,6669,107,37.0,1.0
 36001.0,New York,Albany,24192,347,12.0,0.0
 36003.0,New York,Allegany,3322,84,13.0,0.0
 36005.0,New York,Bronx,179370,6478,189.0,4.0
