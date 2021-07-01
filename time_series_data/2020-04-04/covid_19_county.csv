@@ -196,7 +196,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5145.0,Arkansas,White,23,0,0.0,0.0
 5147.0,Arkansas,Woodruff,1,0,0.0,0.0
 5149.0,Arkansas,Yell,0,0,0.0,0.0
-6001.0,California,Alameda,443,12,0.0,0.0
+6001.0,California,Alameda,443,12,0.0,1.0
 6003.0,California,Alpine,1,0,0.0,0.0
 6005.0,California,Amador,3,0,0.0,0.0
 6007.0,California,Butte,11,0,1.0,0.0
@@ -2147,7 +2147,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39043.0,Ohio,Erie,6,1,0.0,0.0
 39045.0,Ohio,Fairfield,36,0,4.0,0.0
 39047.0,Ohio,Fayette,2,0,1.0,0.0
-39049.0,Ohio,Franklin,557,11,54.0,2.0
+39049.0,Ohio,Franklin,557,12,54.0,2.0
 39051.0,Ohio,Fulton,5,0,1.0,0.0
 39053.0,Ohio,Gallia,4,1,0.0,0.0
 39055.0,Ohio,Geauga,38,0,-3.0,0.0
@@ -2344,7 +2344,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 42023.0,Pennsylvania,Cameron,1,0,0.0,0.0
 42025.0,Pennsylvania,Carbon,46,1,12.0,0.0
 42027.0,Pennsylvania,Centre,39,0,7.0,0.0
-42029.0,Pennsylvania,Chester,250,2,24.0,0.0
+42029.0,Pennsylvania,Chester,275,8,20.0,4.0
 42031.0,Pennsylvania,Clarion,4,0,0.0,0.0
 42033.0,Pennsylvania,Clearfield,7,0,2.0,0.0
 42035.0,Pennsylvania,Clinton,1,0,0.0,0.0

@@ -196,7 +196,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5145.0,Arkansas,White,37,1,0.0,0.0
 5147.0,Arkansas,Woodruff,1,0,0.0,0.0
 5149.0,Arkansas,Yell,73,1,35.0,0.0
-6001.0,California,Alameda,2609,90,49.0,2.0
+6001.0,California,Alameda,2609,89,49.0,0.0
 6003.0,California,Alpine,2,0,0.0,0.0
 6005.0,California,Amador,10,0,0.0,0.0
 6007.0,California,Butte,31,0,1.0,0.0
@@ -2123,7 +2123,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 38103.0,North Dakota,Wells,2,0,0.0,0.0
 38105.0,North Dakota,Williams,22,0,0.0,0.0
 69.0,Northern Mariana Islands,Northern Mariana Islands,22,2,1.0,0.0
-39001.0,Ohio,Adams,8,0,0.0,0.0
+39001.0,Ohio,Adams,8,1,0.0,0.0
 39003.0,Ohio,Allen,176,24,4.0,0.0
 39005.0,Ohio,Ashland,17,1,0.0,0.0
 39007.0,Ohio,Ashtabula,263,28,13.0,2.0
@@ -2140,14 +2140,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39029.0,Ohio,Columbiana,467,56,10.0,0.0
 39031.0,Ohio,Coshocton,22,1,0.0,0.0
 39033.0,Ohio,Crawford,103,3,2.0,0.0
-39035.0,Ohio,Cuyahoga,3667,214,155.0,6.0
+39035.0,Ohio,Cuyahoga,3667,215,155.0,6.0
 39037.0,Ohio,Darke,142,11,8.0,0.0
 39039.0,Ohio,Defiance,30,2,0.0,0.0
 39041.0,Ohio,Delaware,280,10,3.0,0.0
 39043.0,Ohio,Erie,131,2,7.0,0.0
 39045.0,Ohio,Fairfield,222,3,5.0,0.0
 39047.0,Ohio,Fayette,33,0,1.0,0.0
-39049.0,Ohio,Franklin,4885,198,92.0,4.0
+39049.0,Ohio,Franklin,4885,199,92.0,4.0
 39051.0,Ohio,Fulton,35,3,0.0,0.0
 39053.0,Ohio,Gallia,7,1,-1.0,0.0
 39055.0,Ohio,Geauga,241,28,10.0,1.0
@@ -2172,8 +2172,8 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39093.0,Ohio,Lorain,624,51,4.0,0.0
 39095.0,Ohio,Lucas,2056,219,35.0,5.0
 39097.0,Ohio,Madison,105,6,3.0,0.0
-39099.0,Ohio,Mahoning,1277,167,25.0,2.0
-39101.0,Ohio,Marion,2557,16,17.0,1.0
+39099.0,Ohio,Mahoning,1277,168,25.0,2.0
+39101.0,Ohio,Marion,2557,17,17.0,1.0
 39103.0,Ohio,Medina,245,24,8.0,1.0
 39105.0,Ohio,Meigs,4,3,1.0,0.0
 39107.0,Ohio,Mercer,163,3,1.0,0.0
@@ -2344,7 +2344,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 42023.0,Pennsylvania,Cameron,2,0,0.0,0.0
 42025.0,Pennsylvania,Carbon,221,22,2.0,0.0
 42027.0,Pennsylvania,Centre,136,5,3.0,0.0
-42029.0,Pennsylvania,Chester,2267,238,50.0,3.0
+42029.0,Pennsylvania,Chester,2350,265,53.0,5.0
 42031.0,Pennsylvania,Clarion,25,2,0.0,0.0
 42033.0,Pennsylvania,Clearfield,33,0,0.0,0.0
 42035.0,Pennsylvania,Clinton,48,0,3.0,0.0

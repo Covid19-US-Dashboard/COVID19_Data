@@ -196,7 +196,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5145.0,Arkansas,White,3133,51,49.0,0.0
 5147.0,Arkansas,Woodruff,206,1,1.0,0.0
 5149.0,Arkansas,Yell,1681,34,14.0,0.0
-6001.0,California,Alameda,30330,520,358.0,6.0
+6001.0,California,Alameda,30330,463,358.0,3.0
 6003.0,California,Alpine,51,0,0.0,0.0
 6005.0,California,Amador,740,16,74.0,0.0
 6007.0,California,Butte,4244,60,49.0,0.0
@@ -2123,7 +2123,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 38103.0,North Dakota,Wells,307,3,0.0,0.0
 38105.0,North Dakota,Williams,3078,23,19.0,0.0
 69.0,Northern Mariana Islands,Northern Mariana Islands,106,2,0.0,0.0
-39001.0,Ohio,Adams,903,22,11.0,1.0
+39001.0,Ohio,Adams,903,23,11.0,1.0
 39003.0,Ohio,Allen,5594,126,88.0,4.0
 39005.0,Ohio,Ashland,1328,41,40.0,1.0
 39007.0,Ohio,Ashtabula,2692,69,62.0,4.0
@@ -2131,7 +2131,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39011.0,Ohio,Auglaize,2619,52,65.0,1.0
 39013.0,Ohio,Belmont,1959,43,36.0,1.0
 39015.0,Ohio,Brown,1223,14,42.0,0.0
-39017.0,Ohio,Butler,17186,249,284.0,2.0
+39017.0,Ohio,Butler,17186,250,284.0,2.0
 39019.0,Ohio,Carroll,597,16,10.0,0.0
 39021.0,Ohio,Champaign,1174,9,51.0,2.0
 39023.0,Ohio,Clark,5907,127,108.0,2.0
@@ -2140,20 +2140,20 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39029.0,Ohio,Columbiana,4012,116,60.0,3.0
 39031.0,Ohio,Coshocton,1005,23,33.0,0.0
 39033.0,Ohio,Crawford,1539,43,37.0,0.0
-39035.0,Ohio,Cuyahoga,42980,899,710.0,15.0
-39037.0,Ohio,Darke,2720,63,44.0,2.0
+39035.0,Ohio,Cuyahoga,42980,900,710.0,15.0
+39037.0,Ohio,Darke,2720,64,44.0,2.0
 39039.0,Ohio,Defiance,1653,42,27.0,1.0
 39041.0,Ohio,Delaware,6519,42,119.0,0.0
 39043.0,Ohio,Erie,2612,65,34.0,1.0
 39045.0,Ohio,Fairfield,6208,93,95.0,2.0
 39047.0,Ohio,Fayette,1062,19,25.0,0.0
-39049.0,Ohio,Franklin,56123,764,741.0,7.0
+39049.0,Ohio,Franklin,56123,766,741.0,7.0
 39051.0,Ohio,Fulton,1546,29,46.0,2.0
-39053.0,Ohio,Gallia,924,14,44.0,0.0
+39053.0,Ohio,Gallia,924,15,44.0,0.0
 39055.0,Ohio,Geauga,2556,63,45.0,2.0
 39057.0,Ohio,Greene,6139,105,110.0,4.0
 39059.0,Ohio,Guernsey,1109,22,32.0,0.0
-39061.0,Ohio,Hamilton,34402,508,528.0,5.0
+39061.0,Ohio,Hamilton,34402,510,528.0,5.0
 39063.0,Ohio,Hancock,2799,61,27.0,1.0
 39065.0,Ohio,Hardin,1185,33,30.0,0.0
 39067.0,Ohio,Harrison,291,6,12.0,0.0
@@ -2165,21 +2165,21 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39079.0,Ohio,Jackson,1190,14,38.0,2.0
 39081.0,Ohio,Jefferson,1648,32,63.0,3.0
 39083.0,Ohio,Knox,1548,43,20.0,2.0
-39085.0,Ohio,Lake,8333,134,121.0,5.0
-39087.0,Ohio,Lawrence,2191,44,42.0,1.0
+39085.0,Ohio,Lake,8333,135,121.0,5.0
+39087.0,Ohio,Lawrence,2191,43,42.0,1.0
 39089.0,Ohio,Licking,6457,104,138.0,1.0
 39091.0,Ohio,Logan,1499,31,20.0,0.0
 39093.0,Ohio,Lorain,8020,173,166.0,1.0
-39095.0,Ohio,Lucas,16765,434,303.0,1.0
+39095.0,Ohio,Lucas,16765,436,303.0,1.0
 39097.0,Ohio,Madison,1868,25,32.0,0.0
-39099.0,Ohio,Mahoning,8821,342,174.0,2.0
-39101.0,Ohio,Marion,5161,61,47.0,1.0
+39099.0,Ohio,Mahoning,8821,344,174.0,2.0
+39101.0,Ohio,Marion,5161,62,47.0,1.0
 39103.0,Ohio,Medina,5533,84,100.0,2.0
 39105.0,Ohio,Meigs,478,17,14.0,2.0
 39107.0,Ohio,Mercer,3169,59,56.0,1.0
 39109.0,Ohio,Miami,5022,90,96.0,5.0
 39111.0,Ohio,Monroe,398,22,8.0,0.0
-39113.0,Ohio,Montgomery,23277,455,363.0,12.0
+39113.0,Ohio,Montgomery,23277,457,363.0,12.0
 39115.0,Ohio,Morgan,345,7,26.0,2.0
 39117.0,Ohio,Morrow,1102,10,21.0,1.0
 39119.0,Ohio,Muskingum,3078,23,202.0,0.0
@@ -2191,7 +2191,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39129.0,Ohio,Pickaway,4367,55,54.0,0.0
 39131.0,Ohio,Pike,906,5,43.0,1.0
 39133.0,Ohio,Portage,4256,76,91.0,1.0
-39135.0,Ohio,Preble,1773,43,33.0,1.0
+39135.0,Ohio,Preble,1773,45,33.0,1.0
 39137.0,Ohio,Putnam,2420,66,16.0,1.0
 39139.0,Ohio,Richland,3976,62,87.0,2.0
 39141.0,Ohio,Ross,2725,76,48.0,1.0
@@ -2199,8 +2199,8 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39145.0,Ohio,Scioto,2301,33,56.0,1.0
 39147.0,Ohio,Seneca,2067,37,35.0,3.0
 39149.0,Ohio,Shelby,2174,26,27.0,0.0
-39151.0,Ohio,Stark,11126,376,218.0,12.0
-39153.0,Ohio,Summit,16220,390,284.0,16.0
+39151.0,Ohio,Stark,11126,377,218.0,12.0
+39153.0,Ohio,Summit,16220,391,284.0,17.0
 39155.0,Ohio,Trumbull,6497,175,84.0,2.0
 39157.0,Ohio,Tuscarawas,3995,93,75.0,5.0
 90039.0,Ohio,Unassigned,0,0,0.0,0.0
@@ -2209,7 +2209,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39163.0,Ohio,Vinton,284,6,12.0,0.0
 39165.0,Ohio,Warren,9704,112,204.0,1.0
 39167.0,Ohio,Washington,1547,43,51.0,1.0
-39169.0,Ohio,Wayne,3738,108,67.0,2.0
+39169.0,Ohio,Wayne,3738,109,67.0,2.0
 39171.0,Ohio,Williams,1282,15,22.0,1.0
 39173.0,Ohio,Wood,5367,94,130.0,3.0
 39175.0,Ohio,Wyandot,852,15,20.0,1.0
@@ -2344,7 +2344,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 42023.0,Pennsylvania,Cameron,29,0,2.0,0.0
 42025.0,Pennsylvania,Carbon,1421,57,55.0,3.0
 42027.0,Pennsylvania,Centre,6473,59,75.0,2.0
-42029.0,Pennsylvania,Chester,12263,400,0.0,0.0
+42029.0,Pennsylvania,Chester,13086,427,337.0,2.0
 42031.0,Pennsylvania,Clarion,1070,10,45.0,0.0
 42033.0,Pennsylvania,Clearfield,1867,14,92.0,1.0
 42035.0,Pennsylvania,Clinton,792,11,17.0,0.0
